@@ -1,0 +1,10 @@
+{
+  "seeded_from": "https://github.com/robert-rollings/reading_diary",
+  "entry_count": 119,
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "notes": "Seeded read-only local data repo for Spine. Future write flows are not wired yet."
+}
