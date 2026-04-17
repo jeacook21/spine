@@ -8,11 +8,11 @@ date_finished: ''
 rating: 0
 series: null
 series_index: null
-status: reading
+status: finished
 path: entries/2026-04-the-book-of-mormon-31ce32fb.md
 source_type: github-content
 genres:
 - Fantasy
 ---
 
-
+Too many golden plates.
