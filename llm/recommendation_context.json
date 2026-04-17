@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T22:43:18.148270+00:00",
+  "generated_at": "2026-04-17T22:44:28.114495+00:00",
   "source_repo": "git@github.com:jeacook21/spine.git",
   "source_branch": "main",
-  "entry_count": 120,
+  "entry_count": 119,
   "instructions_file": {
     "path": "llm/README_recommendations.md",
     "url": "https://github.com/jeacook21/spine/blob/main/llm/README_recommendations.md"
@@ -13,7 +13,7 @@
   },
   "summary": {
     "reading_count": 1,
-    "abandoned_count": 3,
+    "abandoned_count": 2,
     "rated_count": 116,
     "top_genres": [
       {
@@ -120,23 +120,6 @@
     }
   ],
   "abandoned": [
-    {
-      "id": "2026-04-the-book-of-mormon-31ce32fb",
-      "title": "The Book of Mormon",
-      "author": "Some Fraudster",
-      "state": "abandoned",
-      "status": "abandoned",
-      "rating": "abandoned",
-      "genres": [
-        "Fantasy"
-      ],
-      "series": null,
-      "series_index": null,
-      "date_started": "2026/04/17",
-      "date_finished": "",
-      "excerpt": "Too many golden plates.",
-      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-book-of-mormon-31ce32fb.md"
-    },
     {
       "id": "2025-12-nicholas-nickleby-0295dc28",
       "title": "Nicholas Nickleby",
@@ -585,23 +568,6 @@
     }
   ],
   "reviews": [
-    {
-      "id": "2026-04-the-book-of-mormon-31ce32fb",
-      "title": "The Book of Mormon",
-      "author": "Some Fraudster",
-      "state": "abandoned",
-      "status": "abandoned",
-      "rating": "abandoned",
-      "genres": [
-        "Fantasy"
-      ],
-      "series": null,
-      "series_index": null,
-      "date_started": "2026/04/17",
-      "date_finished": "",
-      "excerpt": "Too many golden plates.",
-      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-book-of-mormon-31ce32fb.md"
-    },
     {
       "id": "2026-04-the-mad-ship-66654ec7",
       "title": "The Mad Ship",
