@@ -3,10 +3,12 @@ id: 2025-12-nicholas-nickleby-0295dc28
 title: Nicholas Nickleby
 author: Charles Dickens
 date: '2025-12-23'
-rating: 0
+date_started: '2025-12-23'
+date_finished: '2025-12-30'
+rating: abandoned
 series: null
 series_index: null
-status: finished
+status: abandoned
 path: years/2025.md
 source_type: seeded-local
 genre: Classic fiction
