@@ -1,14 +1,15 @@
 ---
 id: 2025-07-house-of-chains-38a24a4d
-title: "House of chains"
-author: "Steven Erikson"
-date: "2025-07"
+title: House of chains
+author: Steven Erikson
+date: 2025-07
 rating: 3
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 4
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Another enjoyable read from Erikson. Yet again I was impressed by the scope and scale of his tale. His building of atmosphere was very strong. Rakaru’s aura of menace and intense paranoia came across well.

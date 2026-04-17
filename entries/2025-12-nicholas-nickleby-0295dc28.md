@@ -1,14 +1,15 @@
 ---
 id: 2025-12-nicholas-nickleby-0295dc28
-title: "Nicholas Nickleby"
-author: "Charles Dickens"
-date: "2025-12-23"
+title: Nicholas Nickleby
+author: Charles Dickens
+date: '2025-12-23'
 rating: 0
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Classic fiction
 ---
 
 Did not finish

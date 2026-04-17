@@ -1,14 +1,15 @@
 ---
 id: 2025-12-dust-of-dreams-c74981ec
-title: "Dust of Dreams"
-author: "Steven Erikson"
-date: "2025-12-23"
+title: Dust of Dreams
+author: Steven Erikson
+date: '2025-12-23'
 rating: 3
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 9
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Started: 2025-12-01

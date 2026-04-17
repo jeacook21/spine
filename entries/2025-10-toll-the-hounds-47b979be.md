@@ -1,14 +1,15 @@
 ---
 id: 2025-10-toll-the-hounds-47b979be
-title: "Toll the Hounds"
-author: "Steven Erikson"
-date: "2025-10"
+title: Toll the Hounds
+author: Steven Erikson
+date: 2025-10
 rating: 5
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 8
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 My favourite of the Malazan Book of the Fallen so far. The central theme in this novel is compassion — compassion for the self and for others. We see this quality embodied in Anomander Rake (“What he does he does for others”), in Nimander, Chaur, Gruntle, Monkrat, Bridgeburner Setoc in her hair shirt, and Harllo’s friend, Orfantal. Most poignantly, there is Pearl, carrying the burdens of others within the dark world of Dragnipur, Rake’s sword. For these characters, compassion and selflessness are as natural as breathing.

@@ -1,14 +1,15 @@
 ---
 id: 2025-08-ready-player-one-6995d047
-title: "Ready Player One"
-author: ""
-date: "2025-08"
+title: Ready Player One
+author: ''
+date: 2025-08
 rating: 4
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 The book’s three-part structure worked well, each section mirroring the quest stages within the OASIS and Wade’s experiences in the real world.

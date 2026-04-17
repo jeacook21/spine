@@ -1,14 +1,15 @@
 ---
 id: 2026-01-the-crippled-god-cfc8b8a1
-title: "The Crippled God"
-author: "Steven Erikson"
-date: "2026-01-15"
+title: The Crippled God
+author: Steven Erikson
+date: '2026-01-15'
 rating: 5
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 10
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 **Started:** 2026-01-05

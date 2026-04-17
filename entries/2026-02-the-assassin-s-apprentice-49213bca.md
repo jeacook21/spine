@@ -1,14 +1,15 @@
 ---
 id: 2026-02-the-assassin-s-apprentice-49213bca
-title: "The Assassin's Apprentice"
-author: "Robin Hobb"
-date: "2026-02-08"
+title: The Assassin's Apprentice
+author: Robin Hobb
+date: '2026-02-08'
 rating: 4
-series: "Farseer Trilogy"
+series: Farseer Trilogy
 series_index: 1
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Started: 2026-02-05

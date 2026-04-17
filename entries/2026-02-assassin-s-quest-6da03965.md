@@ -1,14 +1,15 @@
 ---
 id: 2026-02-assassin-s-quest-6da03965
-title: "Assassin's Quest"
-author: "Robin Hobb"
-date: "2026-02-28"
+title: Assassin's Quest
+author: Robin Hobb
+date: '2026-02-28'
 rating: 5
-series: "Farseer Trilogy"
+series: Farseer Trilogy
 series_index: 3
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Started: 2026-02-21

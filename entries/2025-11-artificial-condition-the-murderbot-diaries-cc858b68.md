@@ -1,14 +1,15 @@
 ---
 id: 2025-11-artificial-condition-the-murderbot-diaries-cc858b68
-title: "Artificial Condition: The Murderbot Diaries"
-author: "Martha Wells"
-date: "2025-11"
+title: 'Artificial Condition: The Murderbot Diaries'
+author: Martha Wells
+date: 2025-11
 rating: 3
-series: "The Murderbot Diaries"
+series: The Murderbot Diaries
 series_index: 2
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 > An entertaining action sci-fi novel with a satirical edge and a deeper philosophical question: what does it mean to be "Human"

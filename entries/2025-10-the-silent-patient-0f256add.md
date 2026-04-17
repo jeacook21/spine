@@ -1,14 +1,15 @@
 ---
 id: 2025-10-the-silent-patient-0f256add
-title: "The silent patient"
-author: "Alex Michaelides"
-date: "2025-10"
+title: The silent patient
+author: Alex Michaelides
+date: 2025-10
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Thriller
 ---
 
 #bookclub

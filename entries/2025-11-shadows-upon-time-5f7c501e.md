@@ -1,14 +1,15 @@
 ---
 id: 2025-11-shadows-upon-time-5f7c501e
-title: "Shadows Upon Time"
-author: "Christopher Ruocchio"
-date: "2025-11-30"
+title: Shadows Upon Time
+author: Christopher Ruocchio
+date: '2025-11-30'
 rating: 4
-series: "The Sun Eater"
+series: The Sun Eater
 series_index: 7
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Finished: 30 November 2025

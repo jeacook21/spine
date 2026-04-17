@@ -1,14 +1,15 @@
 ---
 id: 2025-06-absolution-gap-5bfc18fb
-title: "Absolution Gap"
-author: "Alastair Reynolds"
-date: "2025-06"
+title: Absolution Gap
+author: Alastair Reynolds
+date: 2025-06
 rating: 3
-series: "Revelation Space"
+series: Revelation Space
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Reynolds closes his Revelation Space cycle with a novel that manages to feel both vast and oddly intimate. On the grand-opera side we get kilometre-high cathedrals trundling across a moon, spectacular lighthugger battles, and the slow, chilling reveal of just how hard the Inhibitors will fight. Yet the book’s heart is personal: the water-world interlude with the Jugglers and Clavain’s quiet sacrifice reads like a chamber piece, and the chapter-by-chapter date stamps hide a sly time-loop puzzle that rewards careful readers (I grinned when I realised Rashmika was Aura).

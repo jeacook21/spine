@@ -1,14 +1,15 @@
 ---
 id: 2025-03-the-name-of-the-rose-3c3c22d9
-title: "The Name of the Rose"
-author: "Umberto Eco"
-date: "2025-03"
+title: The Name of the Rose
+author: Umberto Eco
+date: 2025-03
 rating: 1
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Historical fiction
 ---
 
 This was a very different book to the historical novels that I have read in the past.

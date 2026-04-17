@@ -1,14 +1,15 @@
 ---
 id: 2024-09-lessons-on-chemistry-74ef83ce
-title: "Lessons on Chemistry"
-author: "Bonnie Garmus"
-date: "2024-09"
+title: Lessons on Chemistry
+author: Bonnie Garmus
+date: 2024-09
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2024.md"
-source_type: "seeded-local"
+status: finished
+path: years/2024.md
+source_type: seeded-local
+genre: Historical fiction
 ---
 
 #bookclub

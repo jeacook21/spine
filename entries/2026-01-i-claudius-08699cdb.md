@@ -1,14 +1,15 @@
 ---
 id: 2026-01-i-claudius-08699cdb
-title: "I, Claudius"
-author: "Robert Graves"
-date: "2026-01-26"
+title: I, Claudius
+author: Robert Graves
+date: '2026-01-26'
 rating: 4
-series: "Claudius"
+series: Claudius
 series_index: 1
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Historical fiction
 ---
 
 Started: 2026-01-18

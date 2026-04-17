@@ -1,14 +1,15 @@
 ---
 id: 2025-01-best-served-cold-6a7d009a
-title: "Best served cold"
-author: "Joe Abercrombie"
-date: "2025-01"
+title: Best served cold
+author: Joe Abercrombie
+date: 2025-01
 rating: 2
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 I expected another deeply dark tale from Abercrombie and this was delivered. I wasn't sure what to expect.

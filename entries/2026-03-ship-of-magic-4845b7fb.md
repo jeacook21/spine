@@ -1,14 +1,15 @@
 ---
 id: 2026-03-ship-of-magic-4845b7fb
-title: "Ship of Magic"
-author: "Robin Hobb"
-date: "2026-03-29"
+title: Ship of Magic
+author: Robin Hobb
+date: '2026-03-29'
 rating: 4
-series: "Liveship Traders Trilogy"
+series: Liveship Traders Trilogy
 series_index: 1
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Started: 2026-03-08

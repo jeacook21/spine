@@ -1,14 +1,15 @@
 ---
 id: 2026-02-royal-assassin-c7f227b6
-title: "Royal Assassin"
-author: "Robin Hobb"
-date: "2026-02-16"
+title: Royal Assassin
+author: Robin Hobb
+date: '2026-02-16'
 rating: 4
-series: "Farseer Trilogy"
+series: Farseer Trilogy
 series_index: 2
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Started: 2026-02-09

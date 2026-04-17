@@ -1,14 +1,15 @@
 ---
 id: 2025-07-midnight-tides-b4569017
-title: "Midnight Tides"
-author: "Steven Erikson"
-date: "2025-07"
+title: Midnight Tides
+author: Steven Erikson
+date: 2025-07
 rating: 4
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 5
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 I was initially disappointed by the absence of the Bridgeburners and other familiar faces — Erikson's abrupt shift to an entirely new continent and cast felt like a gamble. But by the end, I found myself deeply moved and impressed. Midnight Tides introduced a fresh, richly drawn group of characters, and among them, Trull Sengar stood out: a man caught between duty, justice, and conscience, whose internal struggle shaped much of the novel’s emotional heart.

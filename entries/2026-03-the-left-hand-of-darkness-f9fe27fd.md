@@ -1,14 +1,15 @@
 ---
 id: 2026-03-the-left-hand-of-darkness-f9fe27fd
-title: "The Left Hand of Darkness"
-author: "Ursula K. Le Guin"
-date: "2026-03-08"
+title: The Left Hand of Darkness
+author: Ursula K. Le Guin
+date: '2026-03-08'
 rating: 4
 series: null
 series_index: null
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-03-01

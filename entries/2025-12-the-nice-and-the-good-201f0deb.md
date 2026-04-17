@@ -1,14 +1,15 @@
 ---
 id: 2025-12-the-nice-and-the-good-201f0deb
-title: "The nice and the good"
-author: "Iris Murdoch"
-date: "2026-01-04"
+title: The nice and the good
+author: Iris Murdoch
+date: '2026-01-04'
 rating: 4
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Literary fiction
 ---
 
 Started: 2025-12-30

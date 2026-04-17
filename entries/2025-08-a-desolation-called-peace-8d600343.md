@@ -1,14 +1,15 @@
 ---
 id: 2025-08-a-desolation-called-peace-8d600343
-title: "A Desolation Called Peace"
-author: "Arkady Martine"
-date: "2025-08"
+title: A Desolation Called Peace
+author: Arkady Martine
+date: 2025-08
 rating: 5
-series: "Teixcalaan"
+series: Teixcalaan
 series_index: 2
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 This novel explores individuality and personhood with greater depth than its predecessor, especially through Mahit’s evolving relationships with both Yskandr and Three Seagrass. The Aliens (the Enemy) and Twenty Cicada (Swarm) bring these questions to a natural and compelling conclusion.

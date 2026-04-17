@@ -1,14 +1,15 @@
 ---
 id: 2025-05-deadhouse-gates-26af8ff9
-title: "Deadhouse Gates"
-author: "Steven Erikson"
-date: "2025-05"
+title: Deadhouse Gates
+author: Steven Erikson
+date: 2025-05
 rating: 4
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 2
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 I wasn't expecting to enjoy this novel as much as I did. The booktube community told me that it takes at least until book 3 before you start to really "get" and love the "Malazan Book of the Fallen" series. I loved this novel. The sweeping scope, the morally complex and thoroughly human characters the capraciousness of the gods. I also enjoy the way that the magic system is as yet inexplicable. Its magic. It shouldn't make sense. I'm also looking forward to the fact that I will learn more.

@@ -1,14 +1,15 @@
 ---
 id: 2026-02-exit-strategy-d80bfea5
-title: "Exit Strategy"
-author: "Martha Wells"
-date: "2026-02-08"
+title: Exit Strategy
+author: Martha Wells
+date: '2026-02-08'
 rating: 3
-series: "The Murderbot Diaries"
+series: The Murderbot Diaries
 series_index: 4
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-02-08

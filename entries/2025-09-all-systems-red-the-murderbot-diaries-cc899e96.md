@@ -1,14 +1,15 @@
 ---
 id: 2025-09-all-systems-red-the-murderbot-diaries-cc899e96
-title: "All Systems Red: The Murderbot Diaries"
-author: "Martha Wells"
-date: "2025-09"
+title: 'All Systems Red: The Murderbot Diaries'
+author: Martha Wells
+date: 2025-09
 rating: 4
-series: "The Murderbot Diaries"
+series: The Murderbot Diaries
 series_index: 1
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 A very short novel — I finished it in about two days. I loved the premise: a robot that manages to break free of its controls, but chooses not to rebel directly or violently against its masters. Instead, it rebels by “doing a bad job” — the archetypal rebellion of a servant. The writing is fast-paced, with short, punchy sentences. The perspective of the SecBot (Murderbot) as a true outsider adds richness to the narrative and aligns well with its wry humor.

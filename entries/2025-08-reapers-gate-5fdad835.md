@@ -1,14 +1,15 @@
 ---
 id: 2025-08-reapers-gate-5fdad835
-title: "Reapers Gate"
-author: "Steven Erikson"
-date: "2025-08"
+title: Reapers Gate
+author: Steven Erikson
+date: 2025-08
 rating: 4
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 7
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 I was captivated by the adventure and again found myself enthralled by the characters and the world Erikson has woven. This novel felt like a set piece — packed with major events, considerable plot development, and the resolution of a three-book arc with Rhulad’s tragic existence finally brought to an end.

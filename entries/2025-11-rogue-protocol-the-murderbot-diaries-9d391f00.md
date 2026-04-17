@@ -1,14 +1,15 @@
 ---
 id: 2025-11-rogue-protocol-the-murderbot-diaries-9d391f00
-title: "Rogue Protocol: The Murderbot Diaries"
-author: "Martha Wells"
-date: "2025-11-19"
+title: 'Rogue Protocol: The Murderbot Diaries'
+author: Martha Wells
+date: '2025-11-19'
 rating: 3
-series: "The Murderbot Diaries"
+series: The Murderbot Diaries
 series_index: 3
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Finished: 2025-11-19

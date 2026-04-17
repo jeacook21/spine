@@ -1,14 +1,15 @@
 ---
 id: 2025-10-the-great-gatsby-bb5ad4d2
-title: "The Great Gatsby"
-author: "F. Scott Fitzgerald"
-date: "2025-10"
+title: The Great Gatsby
+author: F. Scott Fitzgerald
+date: 2025-10
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Classic fiction
 ---
 
 >A glittering tragedy of love and illusion — dazzling to the eye, but cold to the touch.

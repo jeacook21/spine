@@ -1,14 +1,15 @@
 ---
 id: 2025-04-slaughter-house-5-573d2d90
-title: "Slaughter house 5"
-author: "Kurt Vonnegut"
-date: "2025-04"
+title: Slaughter house 5
+author: Kurt Vonnegut
+date: 2025-04
 rating: 4
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 #bookclub

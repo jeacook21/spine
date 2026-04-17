@@ -1,14 +1,15 @@
 ---
 id: 2024-09-the-final-empire-07104f3e
-title: "The final empire"
-author: "Brandon Sanderson"
-date: "2024-09"
+title: The final empire
+author: Brandon Sanderson
+date: 2024-09
 rating: 4
-series: "Mistborn"
+series: Mistborn
 series_index: 1
-status: "finished"
-path: "years/2024.md"
-source_type: "seeded-local"
+status: finished
+path: years/2024.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 Starts like a heist story as a crew are brought together but expands to be so much more. Who is this immortal “Lord Ruler”

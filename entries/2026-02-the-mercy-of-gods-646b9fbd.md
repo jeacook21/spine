@@ -1,14 +1,15 @@
 ---
 id: 2026-02-the-mercy-of-gods-646b9fbd
-title: "The Mercy of Gods"
-author: "James S. A. Corey"
-date: "2026-02-21"
+title: The Mercy of Gods
+author: James S. A. Corey
+date: '2026-02-21'
 rating: 4
-series: "The Captive'S War"
+series: The Captive'S War
 series_index: 1
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-02-16

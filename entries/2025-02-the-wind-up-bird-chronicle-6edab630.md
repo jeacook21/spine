@@ -1,14 +1,15 @@
 ---
 id: 2025-02-the-wind-up-bird-chronicle-6edab630
-title: "The Wind-Up Bird Chronicle"
-author: "Haruki Murakam"
-date: "2025-02"
+title: The Wind-Up Bird Chronicle
+author: Haruki Murakam
+date: 2025-02
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Literary fiction
 ---
 
 #bookclub

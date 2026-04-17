@@ -1,14 +1,15 @@
 ---
 id: 2025-08-the-bonehunters-775a9209
-title: "The Bonehunters"
-author: "Steven Erikson"
-date: "2025-08"
+title: The Bonehunters
+author: Steven Erikson
+date: 2025-08
 rating: 4
-series: "Malazan Book Of The Fallen"
+series: Malazan Book Of The Fallen
 series_index: 6
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Fantasy
 ---
 
 > Admired more than I loved. The story didn’t grip me quite as tightly as other Malazan entries, but the moral complexity, thematic richness, and depth of character development made this one of the most intellectually satisfying in the series so far.

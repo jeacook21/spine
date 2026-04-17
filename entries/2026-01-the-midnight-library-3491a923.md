@@ -1,14 +1,15 @@
 ---
 id: 2026-01-the-midnight-library-3491a923
-title: "The Midnight Library"
-author: "Matt Haig"
-date: "2026-02-01"
+title: The Midnight Library
+author: Matt Haig
+date: '2026-02-01'
 rating: 2
 series: null
 series_index: null
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-01-26

@@ -1,14 +1,15 @@
 ---
 id: 2025-11-fleet-of-knives-fff2c8fa
-title: "Fleet of Knives"
-author: "Gareth L. Powell"
-date: "2025-11-17"
+title: Fleet of Knives
+author: Gareth L. Powell
+date: '2025-11-17'
 rating: 3
-series: "Embers Of War"
+series: Embers Of War
 series_index: 2
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Finished: 2025-11-17

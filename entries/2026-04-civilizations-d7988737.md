@@ -1,14 +1,15 @@
 ---
 id: 2026-04-civilizations-d7988737
-title: "Civilizations"
-author: "Laurent Binet"
-date: "2026-04-03"
+title: Civilizations
+author: Laurent Binet
+date: '2026-04-03'
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Historical fiction
 ---
 
 Started: 2026-03-30

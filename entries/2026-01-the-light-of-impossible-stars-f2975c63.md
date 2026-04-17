@@ -1,14 +1,15 @@
 ---
 id: 2026-01-the-light-of-impossible-stars-f2975c63
-title: "The Light of Impossible Stars"
-author: "Gareth L. Powell"
-date: "2026-01-18"
+title: The Light of Impossible Stars
+author: Gareth L. Powell
+date: '2026-01-18'
 rating: 3
-series: "Embers Of War"
+series: Embers Of War
 series_index: 3
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-01-16

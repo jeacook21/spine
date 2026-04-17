@@ -1,14 +1,15 @@
 ---
 id: 2026-02-blindsight-c062dfe0
-title: "Blindsight"
-author: "Peter Watts"
-date: "2026-02-05"
+title: Blindsight
+author: Peter Watts
+date: '2026-02-05'
 rating: 2
-series: "Firefall"
+series: Firefall
 series_index: 1
-status: "finished"
-path: "years/2026.md"
-source_type: "seeded-local"
+status: finished
+path: years/2026.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 Started: 2026-02-02

@@ -1,14 +1,15 @@
 ---
 id: 2025-11-embers-of-war-9dc5f0a8
-title: "Embers of War"
-author: "Gareth L. Powell"
-date: "2025-11"
+title: Embers of War
+author: Gareth L. Powell
+date: 2025-11
 rating: 4
-series: "Embers Of War"
+series: Embers Of War
 series_index: 1
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Science fiction
 ---
 
 > A new, grittier, Culture series?

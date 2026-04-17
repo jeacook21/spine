@@ -1,14 +1,15 @@
 ---
 id: 2025-07-fundamentally-9f2b8b20
-title: "Fundamentally"
-author: "Nussaibah Younis"
-date: "2025-07"
+title: Fundamentally
+author: Nussaibah Younis
+date: 2025-07
 rating: 3
 series: null
 series_index: null
-status: "finished"
-path: "years/2025.md"
-source_type: "seeded-local"
+status: finished
+path: years/2025.md
+source_type: seeded-local
+genre: Literary fiction
 ---
 
 #bookclub
