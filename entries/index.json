@@ -6,7 +6,7 @@
     "date": "2026/04/17",
     "date_started": "2026/04/17",
     "date_finished": "",
-    "rating": null,
+    "rating": "abandoned",
     "tags": [],
     "genres": [
       "Fantasy"
@@ -14,7 +14,7 @@
     "genre": "Fantasy",
     "series": null,
     "series_index": null,
-    "status": "finished",
+    "status": "abandoned",
     "body": "Too many golden plates.",
     "path": "entries/2026-04-the-book-of-mormon-31ce32fb.md",
     "source_type": "github-content",
@@ -35,7 +35,7 @@
     "genre": "Fantasy",
     "series": "Liveship Traders Trilogy",
     "series_index": 2,
-    "status": "draft",
+    "status": "reading",
     "body": "Started: 2026-04-04\nFinished:",
     "path": "entries/2026-04-the-mad-ship-66654ec7.md",
     "source_type": "github-content",
@@ -341,8 +341,8 @@
     "author": "Charles Dickens",
     "date": "2025-12-23",
     "date_started": "2025-12-23",
-    "date_finished": "",
-    "rating": null,
+    "date_finished": "2025-12-30",
+    "rating": "abandoned",
     "tags": [],
     "genres": [
       "Classic fiction"
@@ -350,7 +350,7 @@
     "genre": "Classic fiction",
     "series": null,
     "series_index": null,
-    "status": "finished",
+    "status": "abandoned",
     "body": "Did not finish\n\nStarted: 2025-12-23\nFinished reading: 2025-12-30 at Chapter 26\n\nI struggled my way through twenty-six chapters; at times greatly enjoying myself and at others (and most) profoundly frustrated.\n\nDickens’s writing in _Nicholas Nickleby_ is uneven. At times he writes with such precision and clarity — as a master artist producing a vivid impression with a few strokes on a canvas. For example:\n\n> “…stands Newgate; and in that crowded street on which it frowns down so darkly”\n\nDickens wrote for serials, which incentivized expansiveness at the expense of clarity and pace, and this results in extemporization which does not drive the plot or characterization.\n\nThe characters feel more like caricatures than protagonists. Nicholas and Kate Nickleby, with their perfect morals, looks, and virtue, appear one-dimensional and hard to empathize with. Emotional responses are stated rather than felt, often by a character shedding a tear. Mrs Nickleby was by far the most frustrating of characters for me. She is portrayed with clumsiness, and her naïveté is not sympathetic. She is Austen’s Mrs Bennet but without the humor or, at least to me, the satire that made Mrs Bennet both lovable, complex, and funny.\n\nWhile almost certainly unintended, the emotional intensity and hyperbole of the relationships between many characters invites a queer reading. For example, the obsession that Miss Knag has for Kate Nickleby feels like it could be the reaction of an older woman to a threat to her own perception of self and worth, but also erotic obsession. Mr Mantalini and Ralph Nickleby’s interactions appear to be flirting; then, of course, there are the relationships that Nicholas forms with Smike and Noggs. Smike is the Samwise to Nicholas’ Frodo, with Smike filling the role of devotion and sacrifice framed within a class hierarchy.\n\nPerhaps these interactions were normal between heterosexual men in the 19th century, but the interactions appear charged with longing and sexual desire. Of course, this could be a deliberate satire by Dickens on male friendship, but I can’t see his motivation here. More likely, I feel the relationships are drawn with such hyperbole that they pass beyond what Dickens intended.\n\nI greatly enjoyed _Great Expectations_ and so know that Dickens can do oh so much better. The moral simplification, sentimentalization, and lack of restraint leading to hyperbole was too frustrating to allow me to continue; I read, after all, for pleasure. I can imagine that _Nicholas Nickleby_ is a parody of Dickens, so different was my reading experience between the two novels. I will try Dickens again, but will look to his later work.",
     "path": "entries/2025-12-nicholas-nickleby-0295dc28.md",
     "source_type": "seeded-local",
@@ -1539,7 +1539,7 @@
     "date": "2024-11",
     "date_started": "2024-11",
     "date_finished": "",
-    "rating": null,
+    "rating": "abandoned",
     "tags": [],
     "genres": [
       "Science fiction"
@@ -1547,7 +1547,7 @@
     "genre": "Science fiction",
     "series": "Prince Of Nothing",
     "series_index": 1,
-    "status": "finished",
+    "status": "abandoned",
     "body": "Did not finish\n\nCouldn’t get into this. Gave up. I found the names confusing and the lore hard to follow. Couldn’t get a feel for the characters or the world.",
     "path": "entries/2024-11-the-darkness-that-comes-before-16b31275.md",
     "source_type": "seeded-local",

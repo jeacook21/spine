@@ -1,0 +1,2629 @@
+{
+  "generated_at": "2026-04-17T22:35:17.258570+00:00",
+  "source_repo": "git@github.com:jeacook21/spine.git",
+  "source_branch": "main",
+  "entry_count": 120,
+  "instructions_file": {
+    "path": "llm/README_recommendations.md",
+    "url": "https://github.com/jeacook21/spine/blob/main/llm/README_recommendations.md"
+  },
+  "primary_context_file": {
+    "path": "llm/recommendation_context.json",
+    "url": "https://github.com/jeacook21/spine/blob/main/llm/recommendation_context.json"
+  },
+  "summary": {
+    "reading_count": 1,
+    "abandoned_count": 3,
+    "rated_count": 116,
+    "top_genres": [
+      {
+        "label": "Biography",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Memoir",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Thriller",
+        "average": 4.0,
+        "count": 4
+      },
+      {
+        "label": "Classic fiction",
+        "average": 4.0,
+        "count": 2
+      },
+      {
+        "label": "Health",
+        "average": 4.0,
+        "count": 1
+      },
+      {
+        "label": "Philosophy",
+        "average": 4.0,
+        "count": 1
+      },
+      {
+        "label": "Literary fiction",
+        "average": 3.8,
+        "count": 5
+      },
+      {
+        "label": "Fantasy",
+        "average": 3.63,
+        "count": 41
+      }
+    ],
+    "top_authors": [
+      {
+        "label": "Alexei Navalny",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Andy Weir",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Asako Yuzuki",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Charles Dickens",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Edmund White",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Ian M Banks",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Tom Crewe",
+        "average": 5.0,
+        "count": 1
+      },
+      {
+        "label": "Arkady Martine",
+        "average": 4.5,
+        "count": 2
+      }
+    ]
+  },
+  "currently_reading": [
+    {
+      "id": "2026-04-the-mad-ship-66654ec7",
+      "title": "The Mad Ship",
+      "author": "Robin Hobb",
+      "state": "reading",
+      "status": "reading",
+      "rating": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Liveship Traders Trilogy",
+      "series_index": 2,
+      "date_started": "2026-04-04",
+      "date_finished": "",
+      "excerpt": "Started: 2026 04 04 Finished:",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-mad-ship-66654ec7.md"
+    }
+  ],
+  "abandoned": [
+    {
+      "id": "2026-04-the-book-of-mormon-31ce32fb",
+      "title": "The Book of Mormon",
+      "author": "Some Fraudster",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Fantasy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026/04/17",
+      "date_finished": "",
+      "excerpt": "Too many golden plates.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-book-of-mormon-31ce32fb.md"
+    },
+    {
+      "id": "2025-12-nicholas-nickleby-0295dc28",
+      "title": "Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Classic fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-12-23",
+      "date_finished": "2025-12-30",
+      "excerpt": "Did not finish Started: 2025 12 23 Finished reading: 2025 12 30 at Chapter 26 I struggled my way through twenty six chapters; at times greatly enjoying myself and at others (and most) profoundly frustrated. Dickens’s writing in Nicholas Nickleby is uneven. At times he writes with such precision and clarity — as a maste",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-12-nicholas-nickleby-0295dc28.md"
+    },
+    {
+      "id": "2024-11-the-darkness-that-comes-before-16b31275",
+      "title": "The Darkness That Comes Before",
+      "author": "R. Scott Bakker",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Prince Of Nothing",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Did not finish Couldn’t get into this. Gave up. I found the names confusing and the lore hard to follow. Couldn’t get a feel for the characters or the world.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-the-darkness-that-comes-before-16b31275.md"
+    }
+  ],
+  "recent_loves": [
+    {
+      "id": "2026-03-ship-of-magic-4845b7fb",
+      "title": "Ship of Magic",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Liveship Traders Trilogy",
+      "series_index": 1,
+      "date_started": "2026-03-29",
+      "date_finished": "2026-03-29",
+      "excerpt": "Started: 2026 03 08 Finished: 2026 03 29 Another engaging and thrilling story from the world of the Elderlings. Ship of Magic demonstrates Hobb's versatility as a writer. The use of the first person in The Farseer Trilogy is suited to the claustrophobic world of court politics and personal sacrifice. In Ship of Magic ,",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-03-ship-of-magic-4845b7fb.md"
+    },
+    {
+      "id": "2026-03-the-left-hand-of-darkness-f9fe27fd",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-03-08",
+      "date_finished": "2026-03-08",
+      "excerpt": "Started: 2026 03 01 Finished: 2026 03 08 bookclub The Left Hand of Darkness is an interesting book. It uses a science fiction premise as a means to conduct a thought experiment — what if gender wasn’t the organizing principle of society? It succeeds as a critique of gender roles. Ai, the Envoy, only superficially exami",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-03-the-left-hand-of-darkness-f9fe27fd.md"
+    },
+    {
+      "id": "2026-02-assassin-s-quest-6da03965",
+      "title": "Assassin's Quest",
+      "author": "Robin Hobb",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 3,
+      "date_started": "2026-02-28",
+      "date_finished": "2026-02-28",
+      "excerpt": "Started: 2026 02 21 Finished: 2026 02 28 I could not put this down. I read and read — pushing myself well past bedtimes and ignoring almost everything else. I felt the world drawn by Hobb viscerally, and I felt the pain, hate, and love that swim through this book like the current of a pulling river. The frustration of ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-assassin-s-quest-6da03965.md"
+    },
+    {
+      "id": "2026-02-the-mercy-of-gods-646b9fbd",
+      "title": "The Mercy of Gods",
+      "author": "James S. A. Corey",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Captive'S War",
+      "series_index": 1,
+      "date_started": "2026-02-21",
+      "date_finished": "2026-02-21",
+      "excerpt": "Started: 2026 02 16 Finished: 2026 02 21 What fun. This is a very different premise and world to that of the Expanse. I was frustrated in the first half of the novel finding the cycles of ever worsening suffering bleak and repetative than engaging and enjoyable. In the lattter half I found that the first half was a nec",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-the-mercy-of-gods-646b9fbd.md"
+    },
+    {
+      "id": "2026-02-royal-assassin-c7f227b6",
+      "title": "Royal Assassin",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 2,
+      "date_started": "2026-02-16",
+      "date_finished": "2026-02-16",
+      "excerpt": "Started: 2026 02 09 Finished: 2026 02 16 The second novel in the Farseer Trilogy is frustrating but neccessarily so. We pick up Fitz on his journey back to Buckeep and his recovery from his poisining in the Mountain Kingdom. Regal's power grows with Verity's absence and Regal's plot to usurp both Verity and King Shrewd",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-royal-assassin-c7f227b6.md"
+    },
+    {
+      "id": "2026-02-the-assassin-s-apprentice-49213bca",
+      "title": "The Assassin's Apprentice",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 1,
+      "date_started": "2026-02-08",
+      "date_finished": "2026-02-08",
+      "excerpt": "Started: 2026 02 05 Finished: 2026 02 08 The Assasin's Apprentice enthralled me. I reluctantly put it asside when I had to sleep and I picked it up eagerly in the morning when I worke. The reading of it filled a rainy weekend which otherwise would have been dull and grey. Fitz's world is beautifully drawn. The boyish w",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-the-assassin-s-apprentice-49213bca.md"
+    },
+    {
+      "id": "2026-01-i-claudius-08699cdb",
+      "title": "I, Claudius",
+      "author": "Robert Graves",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Claudius",
+      "series_index": 1,
+      "date_started": "2026-01-26",
+      "date_finished": "2026-01-26",
+      "excerpt": "Started: 2026 01 18 Finished: 2026 01 26 This is a work of profound scholarship and ambition and ultimately art. I believe I, Claudius is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their char",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-i-claudius-08699cdb.md"
+    },
+    {
+      "id": "2026-01-the-crippled-god-cfc8b8a1",
+      "title": "The Crippled God",
+      "author": "Steven Erikson",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 10,
+      "date_started": "2026-01-15",
+      "date_finished": "",
+      "excerpt": "Started: 2026 01 05 Finished: 2026 01 15 The conclusion to such an epic work defies a review that is succinct. The first—and most important—question I have to ask is: Did Erikson deserve the trust I placed in him upon finishing Dust of Dreams ? The answer is yes. In many ways, The Crippled God is the archetypal Malazan",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-the-crippled-god-cfc8b8a1.md"
+    },
+    {
+      "id": "2025-12-the-nice-and-the-good-201f0deb",
+      "title": "The nice and the good",
+      "author": "Iris Murdoch",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-01-04",
+      "date_finished": "2026-01-04",
+      "excerpt": "Started: 2025 12 30 Finished: 2026 01 04 bookclub I read the introduction to The nice and the Good by Catherine Bates. I wish I had not. The introduction colored my own interpretation of the novel and I cant escape the fact that Bates has influences, poluted, my own reading. With that given as a caveat here is my refle",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-12-the-nice-and-the-good-201f0deb.md"
+    },
+    {
+      "id": "2025-11-shadows-upon-time-5f7c501e",
+      "title": "Shadows Upon Time",
+      "author": "Christopher Ruocchio",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 7,
+      "date_started": "2025-11-30",
+      "date_finished": "",
+      "excerpt": "Finished: 30 November 2025 An epic and ambiguous ending to a modern classic. The Sun Eater saga has been a long journey, from Hadrian’s beginnings as the son of a minor lord to Emperor of the Galaxy, and Shadows Upon Time offers a grand, emotionally charged conclusion. Despite the turbulence of Ruocchio’s mid series ch",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-shadows-upon-time-5f7c501e.md"
+    },
+    {
+      "id": "2025-11-embers-of-war-9dc5f0a8",
+      "title": "Embers of War",
+      "author": "Gareth L. Powell",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Embers Of War",
+      "series_index": 1,
+      "date_started": "2025-11",
+      "date_finished": "",
+      "excerpt": "A new, grittier, Culture series? Embers of War was a short and enjoyable romp through space. The pacing was fast, and the action felt natural rather than contrived. Powell wears his influences openly: Iain M. Banks’s Culture novels, the extended Star Wars universe, and perhaps The Expanse in its gritty portrayal of com",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-embers-of-war-9dc5f0a8.md"
+    },
+    {
+      "id": "2025-10-toll-the-hounds-47b979be",
+      "title": "Toll the Hounds",
+      "author": "Steven Erikson",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 8,
+      "date_started": "2025-10",
+      "date_finished": "",
+      "excerpt": "My favourite of the Malazan Book of the Fallen so far. The central theme in this novel is compassion — compassion for the self and for others. We see this quality embodied in Anomander Rake (“What he does he does for others”), in Nimander, Chaur, Gruntle, Monkrat, Bridgeburner Setoc in her hair shirt, and Harllo’s frie",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-10-toll-the-hounds-47b979be.md"
+    }
+  ],
+  "recent_dislikes": [
+    {
+      "id": "2026-02-blindsight-c062dfe0",
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Firefall",
+      "series_index": 1,
+      "date_started": "2026-02-05",
+      "date_finished": "2026-02-05",
+      "excerpt": "Started: 2026 02 02 Finished: 2026 02 05 This is a novel filled with ideas. the nature of sentience, cociousness and free will. The question asked is sentience really all that great is it an advantage or a drawback can an inteligent being be unaware? These themes are compelling and are subtly worked in from the beginin",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-blindsight-c062dfe0.md"
+    },
+    {
+      "id": "2026-01-the-midnight-library-3491a923",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-02-01",
+      "date_finished": "2026-02-01",
+      "excerpt": "Started: 2026 01 26 Finished: 2026 02 01 bookclub This novel has been extremely successful, attracting praise from celebrities and broadsheet newspapers such as The Guardian and The Times. It is firmly situated in the realm of popular literary fiction: accessible, reassuring, and undemanding. It asks very little of its",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-the-midnight-library-3491a923.md"
+    },
+    {
+      "id": "2025-03-the-name-of-the-rose-3c3c22d9",
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-03",
+      "date_finished": "",
+      "excerpt": "This was a very different book to the historical novels that I have read in the past. What I liked I loved the vivid and beautiful descriptions, the world of the Abbey would beautifuly realised, the atmosphere thick and vivid. The characterisation of Adso and Willimam beautifully drawn. The prejudicies and preocupation",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-03-the-name-of-the-rose-3c3c22d9.md"
+    },
+    {
+      "id": "2025-02-she-who-became-the-sun-b158237c",
+      "title": "She Who Became the Sun",
+      "author": "Shelley Parker-Chan",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Radiant Emperor",
+      "series_index": 1,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "This was an enjoyable read though I found the genre mix up a little confusing. I liked the historical fiction and delving into the world of 14th century China. The swapping of genders of the main protagonist was interesting and made the novel an intersting study on identify and reality. I found the \"magic\" elements a b",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-she-who-became-the-sun-b158237c.md"
+    },
+    {
+      "id": "2025-01-ender-in-exile-02db5b3d",
+      "title": "Ender in Exile",
+      "author": "Orson Scott Card",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 6,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "I was very disappointed by this novel. I did not feel, in context of the rest of the Ender books, that this story needed telling, or at least not in the way it was. The story was pre occupied with a power dynamic between the captain of the colony ship and Ender. The wider development of Ender was not made clear. The re",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-ender-in-exile-02db5b3d.md"
+    },
+    {
+      "id": "2025-01-best-served-cold-6a7d009a",
+      "title": "Best served cold",
+      "author": "Joe Abercrombie",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "I expected another deeply dark tale from Abercrombie and this was delivered. I wasn't sure what to expect. Revenge was the clear driving force through the book and I found this motivation for the characters a little shallow. And it made the book feel a bit like a formulaic heist story. Gather a crew, go through a serie",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-best-served-cold-6a7d009a.md"
+    },
+    {
+      "id": "2024-12-wind-and-truth-a79eda31",
+      "title": "Wind and truth",
+      "author": "Brandon Sanderson",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 5,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Enjoyable conclusion without the moral weight and grace of the first few books. The twist wasn’t quite twisty enough however a good tale. The world building was incredible. Will read the next story ark.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-wind-and-truth-a79eda31.md"
+    },
+    {
+      "id": "2024-11-too-like-the-lightning-eb912913",
+      "title": "Too like the lightning",
+      "author": "Ada Palmer",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Terra Incognita",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Not sure what to make of this one. Challenging. At times sound of hard to follow and the narrator style difficult to follow. The different factions “Hives” hard to keep straight. Not sure what the Bash system adds to the narrative. They are families. Extended families.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-too-like-the-lightning-eb912913.md"
+    },
+    {
+      "id": "2024-10-the-well-of-ascension-c9e07ae8",
+      "title": "The well of ascension",
+      "author": "Brandon Sanderson",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Mistborn",
+      "series_index": 2,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Entertaining. Good twist at the end. Good pace. Will likely read the next one.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-the-well-of-ascension-c9e07ae8.md"
+    },
+    {
+      "id": "2024-04-the-drawing-of-the-three-6c9e0551",
+      "title": "The drawing of the three",
+      "author": "Stephen King",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Horror"
+      ],
+      "series": "The Dark Tower",
+      "series_index": 2,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Very much enjoyed. Not like a fantasy I’ve read before. Roland, Eddie and Odetta/Detta/Samantha are a great combination. The interplay between them masterfully drawn. The horror real.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-the-drawing-of-the-three-6c9e0551.md"
+    },
+    {
+      "id": "2024-04-alien-clay-a3df92a7",
+      "title": "Alien Clay",
+      "author": "Adrian Tchaikovsky",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Very entertaining but formulaic. The commandant was a one dimensional antagonist.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-alien-clay-a3df92a7.md"
+    },
+    {
+      "id": "2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d",
+      "title": "Hyperion Cantos book 2 the fall of Hyperion",
+      "author": "Dan Simmons",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Hyperion Cantos",
+      "series_index": 2,
+      "date_started": "2024-03",
+      "date_finished": "",
+      "excerpt": "Overly long and mystical. Enjoyable in parts. Might consider reading more of the series.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d.md"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "2026-04-the-book-of-mormon-31ce32fb",
+      "title": "The Book of Mormon",
+      "author": "Some Fraudster",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Fantasy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026/04/17",
+      "date_finished": "",
+      "excerpt": "Too many golden plates.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-book-of-mormon-31ce32fb.md"
+    },
+    {
+      "id": "2026-04-the-mad-ship-66654ec7",
+      "title": "The Mad Ship",
+      "author": "Robin Hobb",
+      "state": "reading",
+      "status": "reading",
+      "rating": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Liveship Traders Trilogy",
+      "series_index": 2,
+      "date_started": "2026-04-04",
+      "date_finished": "",
+      "excerpt": "Started: 2026 04 04 Finished:",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-the-mad-ship-66654ec7.md"
+    },
+    {
+      "id": "2026-04-civilizations-d7988737",
+      "title": "Civilizations",
+      "author": "Laurent Binet",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-04-03",
+      "date_finished": "2026-04-03",
+      "excerpt": "Started: 2026 03 30 Finished: 2026 04 03 bookclub This book is a work of speculative historical fiction. Imagining a world where it was the Inca and the Aztecs that invaded and conquered Europe rather than Spain, Portugal and Britain who took the Americas. Binet deploys irony with a heavy hand. It is Atahualpa who capt",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-04-civilizations-d7988737.md"
+    },
+    {
+      "id": "2026-03-ship-of-magic-4845b7fb",
+      "title": "Ship of Magic",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Liveship Traders Trilogy",
+      "series_index": 1,
+      "date_started": "2026-03-29",
+      "date_finished": "2026-03-29",
+      "excerpt": "Started: 2026 03 08 Finished: 2026 03 29 Another engaging and thrilling story from the world of the Elderlings. Ship of Magic demonstrates Hobb's versatility as a writer. The use of the first person in The Farseer Trilogy is suited to the claustrophobic world of court politics and personal sacrifice. In Ship of Magic ,",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-03-ship-of-magic-4845b7fb.md"
+    },
+    {
+      "id": "2026-03-the-left-hand-of-darkness-f9fe27fd",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-03-08",
+      "date_finished": "2026-03-08",
+      "excerpt": "Started: 2026 03 01 Finished: 2026 03 08 bookclub The Left Hand of Darkness is an interesting book. It uses a science fiction premise as a means to conduct a thought experiment — what if gender wasn’t the organizing principle of society? It succeeds as a critique of gender roles. Ai, the Envoy, only superficially exami",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-03-the-left-hand-of-darkness-f9fe27fd.md"
+    },
+    {
+      "id": "2026-02-assassin-s-quest-6da03965",
+      "title": "Assassin's Quest",
+      "author": "Robin Hobb",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 3,
+      "date_started": "2026-02-28",
+      "date_finished": "2026-02-28",
+      "excerpt": "Started: 2026 02 21 Finished: 2026 02 28 I could not put this down. I read and read — pushing myself well past bedtimes and ignoring almost everything else. I felt the world drawn by Hobb viscerally, and I felt the pain, hate, and love that swim through this book like the current of a pulling river. The frustration of ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-assassin-s-quest-6da03965.md"
+    },
+    {
+      "id": "2026-02-the-mercy-of-gods-646b9fbd",
+      "title": "The Mercy of Gods",
+      "author": "James S. A. Corey",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Captive'S War",
+      "series_index": 1,
+      "date_started": "2026-02-21",
+      "date_finished": "2026-02-21",
+      "excerpt": "Started: 2026 02 16 Finished: 2026 02 21 What fun. This is a very different premise and world to that of the Expanse. I was frustrated in the first half of the novel finding the cycles of ever worsening suffering bleak and repetative than engaging and enjoyable. In the lattter half I found that the first half was a nec",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-the-mercy-of-gods-646b9fbd.md"
+    },
+    {
+      "id": "2026-02-royal-assassin-c7f227b6",
+      "title": "Royal Assassin",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 2,
+      "date_started": "2026-02-16",
+      "date_finished": "2026-02-16",
+      "excerpt": "Started: 2026 02 09 Finished: 2026 02 16 The second novel in the Farseer Trilogy is frustrating but neccessarily so. We pick up Fitz on his journey back to Buckeep and his recovery from his poisining in the Mountain Kingdom. Regal's power grows with Verity's absence and Regal's plot to usurp both Verity and King Shrewd",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-royal-assassin-c7f227b6.md"
+    },
+    {
+      "id": "2026-02-the-assassin-s-apprentice-49213bca",
+      "title": "The Assassin's Apprentice",
+      "author": "Robin Hobb",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Farseer Trilogy",
+      "series_index": 1,
+      "date_started": "2026-02-08",
+      "date_finished": "2026-02-08",
+      "excerpt": "Started: 2026 02 05 Finished: 2026 02 08 The Assasin's Apprentice enthralled me. I reluctantly put it asside when I had to sleep and I picked it up eagerly in the morning when I worke. The reading of it filled a rainy weekend which otherwise would have been dull and grey. Fitz's world is beautifully drawn. The boyish w",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-the-assassin-s-apprentice-49213bca.md"
+    },
+    {
+      "id": "2026-02-exit-strategy-d80bfea5",
+      "title": "Exit Strategy",
+      "author": "Martha Wells",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Murderbot Diaries",
+      "series_index": 4,
+      "date_started": "2026-02-08",
+      "date_finished": "",
+      "excerpt": "Started: 2026 02 08 Finsihed: 2026 02 09 This is pure entertainment. The plot takes precidence, with action predominating over character development. Murderbot softens a little accepting some measure of friendship and human emotion. But I found this very much subordinated by the action and satire on corporate greed and",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-exit-strategy-d80bfea5.md"
+    },
+    {
+      "id": "2026-02-blindsight-c062dfe0",
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Firefall",
+      "series_index": 1,
+      "date_started": "2026-02-05",
+      "date_finished": "2026-02-05",
+      "excerpt": "Started: 2026 02 02 Finished: 2026 02 05 This is a novel filled with ideas. the nature of sentience, cociousness and free will. The question asked is sentience really all that great is it an advantage or a drawback can an inteligent being be unaware? These themes are compelling and are subtly worked in from the beginin",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-02-blindsight-c062dfe0.md"
+    },
+    {
+      "id": "2026-01-the-midnight-library-3491a923",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-02-01",
+      "date_finished": "2026-02-01",
+      "excerpt": "Started: 2026 01 26 Finished: 2026 02 01 bookclub This novel has been extremely successful, attracting praise from celebrities and broadsheet newspapers such as The Guardian and The Times. It is firmly situated in the realm of popular literary fiction: accessible, reassuring, and undemanding. It asks very little of its",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-the-midnight-library-3491a923.md"
+    },
+    {
+      "id": "2026-01-i-claudius-08699cdb",
+      "title": "I, Claudius",
+      "author": "Robert Graves",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Claudius",
+      "series_index": 1,
+      "date_started": "2026-01-26",
+      "date_finished": "2026-01-26",
+      "excerpt": "Started: 2026 01 18 Finished: 2026 01 26 This is a work of profound scholarship and ambition and ultimately art. I believe I, Claudius is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their char",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-i-claudius-08699cdb.md"
+    },
+    {
+      "id": "2026-01-the-light-of-impossible-stars-f2975c63",
+      "title": "The Light of Impossible Stars",
+      "author": "Gareth L. Powell",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Embers Of War",
+      "series_index": 3,
+      "date_started": "2026-01-18",
+      "date_finished": "2026-01-18",
+      "excerpt": "Started: 2026 01 16 Finished: 2026 01 18 The concluding chapter in Powell’s space opera is competent and engaging with good world building and excellent pace. Short sharp chapters and shifting perspectives, but to my mind, unexceptional. In this final instalment, Powell crystallises the themes of individuality and mora",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-the-light-of-impossible-stars-f2975c63.md"
+    },
+    {
+      "id": "2026-01-the-crippled-god-cfc8b8a1",
+      "title": "The Crippled God",
+      "author": "Steven Erikson",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 10,
+      "date_started": "2026-01-15",
+      "date_finished": "",
+      "excerpt": "Started: 2026 01 05 Finished: 2026 01 15 The conclusion to such an epic work defies a review that is succinct. The first—and most important—question I have to ask is: Did Erikson deserve the trust I placed in him upon finishing Dust of Dreams ? The answer is yes. In many ways, The Crippled God is the archetypal Malazan",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2026-01-the-crippled-god-cfc8b8a1.md"
+    },
+    {
+      "id": "2025-12-the-nice-and-the-good-201f0deb",
+      "title": "The nice and the good",
+      "author": "Iris Murdoch",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2026-01-04",
+      "date_finished": "2026-01-04",
+      "excerpt": "Started: 2025 12 30 Finished: 2026 01 04 bookclub I read the introduction to The nice and the Good by Catherine Bates. I wish I had not. The introduction colored my own interpretation of the novel and I cant escape the fact that Bates has influences, poluted, my own reading. With that given as a caveat here is my refle",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-12-the-nice-and-the-good-201f0deb.md"
+    },
+    {
+      "id": "2025-12-nicholas-nickleby-0295dc28",
+      "title": "Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Classic fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-12-23",
+      "date_finished": "2025-12-30",
+      "excerpt": "Did not finish Started: 2025 12 23 Finished reading: 2025 12 30 at Chapter 26 I struggled my way through twenty six chapters; at times greatly enjoying myself and at others (and most) profoundly frustrated. Dickens’s writing in Nicholas Nickleby is uneven. At times he writes with such precision and clarity — as a maste",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-12-nicholas-nickleby-0295dc28.md"
+    },
+    {
+      "id": "2025-12-dust-of-dreams-c74981ec",
+      "title": "Dust of Dreams",
+      "author": "Steven Erikson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 9,
+      "date_started": "2025-12-23",
+      "date_finished": "2025-12-23",
+      "excerpt": "Started: 2025 12 01 Finished: 2025 12 23 It is hard to write a review of the ninth Malazan Book of The Fallen \"Dust of Dreams\" not because it is great or terrible (it is neither) or because I did not like it. But rather it is the penultimate book and I must hold to my faith that Erikson will be able to bring this rambl",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-12-dust-of-dreams-c74981ec.md"
+    },
+    {
+      "id": "2025-11-shadows-upon-time-5f7c501e",
+      "title": "Shadows Upon Time",
+      "author": "Christopher Ruocchio",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 7,
+      "date_started": "2025-11-30",
+      "date_finished": "",
+      "excerpt": "Finished: 30 November 2025 An epic and ambiguous ending to a modern classic. The Sun Eater saga has been a long journey, from Hadrian’s beginnings as the son of a minor lord to Emperor of the Galaxy, and Shadows Upon Time offers a grand, emotionally charged conclusion. Despite the turbulence of Ruocchio’s mid series ch",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-shadows-upon-time-5f7c501e.md"
+    },
+    {
+      "id": "2025-11-rogue-protocol-the-murderbot-diaries-9d391f00",
+      "title": "Rogue Protocol: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Murderbot Diaries",
+      "series_index": 3,
+      "date_started": "2025-11-19",
+      "date_finished": "2025-11-19",
+      "excerpt": "Finished: 2025 11 19 An adventure story with a little philosophical seasoning. Another entertaining story from Wells. The Murderbot is starting to become more and more human. His realisation that Miki was really free where it counted — free to save itself — and therefore that she really was a friend, in the real sense ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-rogue-protocol-the-murderbot-diaries-9d391f00.md"
+    },
+    {
+      "id": "2025-11-fleet-of-knives-fff2c8fa",
+      "title": "Fleet of Knives",
+      "author": "Gareth L. Powell",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Embers Of War",
+      "series_index": 2,
+      "date_started": "2025-11-17",
+      "date_finished": "2025-11-17",
+      "excerpt": "Finished: 2025 11 17 A wild space adventure with little emotional depth. The novel was very much a middle chapter. The plot for the conclusion is set up with the monsters in the mist revealed, the dark and conflicted motivations and actions of the Marble Fleet (Fleet of Knives) explored. I liked that no character is sa",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-fleet-of-knives-fff2c8fa.md"
+    },
+    {
+      "id": "2025-11-embers-of-war-9dc5f0a8",
+      "title": "Embers of War",
+      "author": "Gareth L. Powell",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Embers Of War",
+      "series_index": 1,
+      "date_started": "2025-11",
+      "date_finished": "",
+      "excerpt": "A new, grittier, Culture series? Embers of War was a short and enjoyable romp through space. The pacing was fast, and the action felt natural rather than contrived. Powell wears his influences openly: Iain M. Banks’s Culture novels, the extended Star Wars universe, and perhaps The Expanse in its gritty portrayal of com",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-embers-of-war-9dc5f0a8.md"
+    },
+    {
+      "id": "2025-11-artificial-condition-the-murderbot-diaries-cc858b68",
+      "title": "Artificial Condition: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Murderbot Diaries",
+      "series_index": 2,
+      "date_started": "2025-11",
+      "date_finished": "",
+      "excerpt": "An entertaining action sci fi novel with a satirical edge and a deeper philosophical question: what does it mean to be \"Human\" The second installment of the Murderbot Diaries was highly entertaining if a little shallow as more interesting threads such as the motivations of the SexBot, the role and rights of artificial ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-11-artificial-condition-the-murderbot-diaries-cc858b68.md"
+    },
+    {
+      "id": "2025-10-toll-the-hounds-47b979be",
+      "title": "Toll the Hounds",
+      "author": "Steven Erikson",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 8,
+      "date_started": "2025-10",
+      "date_finished": "",
+      "excerpt": "My favourite of the Malazan Book of the Fallen so far. The central theme in this novel is compassion — compassion for the self and for others. We see this quality embodied in Anomander Rake (“What he does he does for others”), in Nimander, Chaur, Gruntle, Monkrat, Bridgeburner Setoc in her hair shirt, and Harllo’s frie",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-10-toll-the-hounds-47b979be.md"
+    },
+    {
+      "id": "2025-10-the-silent-patient-0f256add",
+      "title": "The silent patient",
+      "author": "Alex Michaelides",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Thriller"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-10",
+      "date_finished": "",
+      "excerpt": "bookclub I’m conflicted about The Silent Patient. At first, I found the first person perspective irritating — as I often do — because it narrows the lens through which we see the world. Few novels use it well; To Kill a Mockingbird is one that succeeds. While the first person narration initially grated on me, I began t",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-10-the-silent-patient-0f256add.md"
+    },
+    {
+      "id": "2025-10-the-great-gatsby-bb5ad4d2",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Classic fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-10",
+      "date_finished": "",
+      "excerpt": "A glittering tragedy of love and illusion — dazzling to the eye, but cold to the touch. Evocative and beautifully written. Fitzgerald draws a sketch of the Gilded Age in the US where life, money, and love were cheap. The novel is a satire of a way of life, a way of thinking and behaving that is timeless — the worship o",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-10-the-great-gatsby-bb5ad4d2.md"
+    },
+    {
+      "id": "2025-09-butter-bec98806",
+      "title": "Butter",
+      "author": "Asako Yuzuki",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-09",
+      "date_finished": "",
+      "excerpt": "bookclub This was one of the most immersive and thought provoking novels I’ve read for book club. At first, I was struck by the contradictions: glorious descriptions of food set against social judgment, self judgment, and the suffocating weight of gender roles. Yuzuki writes entirely from a woman’s perspective, and the",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-09-butter-bec98806.md"
+    },
+    {
+      "id": "2025-09-all-systems-red-the-murderbot-diaries-cc899e96",
+      "title": "All Systems Red: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Murderbot Diaries",
+      "series_index": 1,
+      "date_started": "2025-09",
+      "date_finished": "",
+      "excerpt": "A very short novel — I finished it in about two days. I loved the premise: a robot that manages to break free of its controls, but chooses not to rebel directly or violently against its masters. Instead, it rebels by “doing a bad job” — the archetypal rebellion of a servant. The writing is fast paced, with short, punch",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-09-all-systems-red-the-murderbot-diaries-cc899e96.md"
+    },
+    {
+      "id": "2025-08-the-bonehunters-775a9209",
+      "title": "The Bonehunters",
+      "author": "Steven Erikson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 6,
+      "date_started": "2025-08",
+      "date_finished": "",
+      "excerpt": "Admired more than I loved. The story didn’t grip me quite as tightly as other Malazan entries, but the moral complexity, thematic richness, and depth of character development made this one of the most intellectually satisfying in the series so far. Overall Impression The sixth Malazan Book of the Fallen novel combines ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-08-the-bonehunters-775a9209.md"
+    },
+    {
+      "id": "2025-08-reapers-gate-5fdad835",
+      "title": "Reapers Gate",
+      "author": "Steven Erikson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 7,
+      "date_started": "2025-08",
+      "date_finished": "",
+      "excerpt": "I was captivated by the adventure and again found myself enthralled by the characters and the world Erikson has woven. This novel felt like a set piece — packed with major events, considerable plot development, and the resolution of a three book arc with Rhulad’s tragic existence finally brought to an end. As the seven",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-08-reapers-gate-5fdad835.md"
+    },
+    {
+      "id": "2025-08-ready-player-one-6995d047",
+      "title": "Ready Player One",
+      "author": "",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-08",
+      "date_finished": "",
+      "excerpt": "The book’s three part structure worked well, each section mirroring the quest stages within the OASIS and Wade’s experiences in the real world. Part 1 builds the world , context, and Wade/Parzival’s backstory. In both the OASIS and real life, this is about finding his footing — completing the first quest stage while es",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-08-ready-player-one-6995d047.md"
+    },
+    {
+      "id": "2025-08-a-desolation-called-peace-8d600343",
+      "title": "A Desolation Called Peace",
+      "author": "Arkady Martine",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Teixcalaan",
+      "series_index": 2,
+      "date_started": "2025-08",
+      "date_finished": "",
+      "excerpt": "This novel explores individuality and personhood with greater depth than its predecessor, especially through Mahit’s evolving relationships with both Yskandr and Three Seagrass. The Aliens (the Enemy) and Twenty Cicada (Swarm) bring these questions to a natural and compelling conclusion. The love story between Mahit an",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-08-a-desolation-called-peace-8d600343.md"
+    },
+    {
+      "id": "2025-07-midnight-tides-b4569017",
+      "title": "Midnight Tides",
+      "author": "Steven Erikson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 5,
+      "date_started": "2025-07",
+      "date_finished": "",
+      "excerpt": "I was initially disappointed by the absence of the Bridgeburners and other familiar faces — Erikson's abrupt shift to an entirely new continent and cast felt like a gamble. But by the end, I found myself deeply moved and impressed. Midnight Tides introduced a fresh, richly drawn group of characters, and among them, Tru",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-07-midnight-tides-b4569017.md"
+    },
+    {
+      "id": "2025-07-house-of-chains-38a24a4d",
+      "title": "House of chains",
+      "author": "Steven Erikson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 4,
+      "date_started": "2025-07",
+      "date_finished": "",
+      "excerpt": "Another enjoyable read from Erikson. Yet again I was impressed by the scope and scale of his tale. His building of atmosphere was very strong. Rakaru’s aura of menace and intense paranoia came across well. The parallel and sometimes interwoven plots were enjoyable and the focus on the character development of character",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-07-house-of-chains-38a24a4d.md"
+    },
+    {
+      "id": "2025-07-fundamentally-9f2b8b20",
+      "title": "Fundamentally",
+      "author": "Nussaibah Younis",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-07",
+      "date_finished": "",
+      "excerpt": "bookclub This short novel orbits a tight cast of characters, some of whom felt exaggerated to the point of caricature. Lionie (Nadia’s boss) and Tom (the macho security guy) especially seemed sketched to make a satirical point rather than emerge as fully formed individuals. Much of the humor relies on cultural and tona",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-07-fundamentally-9f2b8b20.md"
+    },
+    {
+      "id": "2025-06-memories-of-ice-ed63a8bb",
+      "title": "Memories of ice",
+      "author": "Steven Erickson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 3,
+      "date_started": "2025-06",
+      "date_finished": "",
+      "excerpt": "I can see why people are so passionate about the Malian book of the fallen. The world building is exquisite. Each place felt real. I could smell the air feel the texture of the grass the feel of the city or field. The strength of humanity and our capacity for compassion and possibility of redemption were the key themes",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-06-memories-of-ice-ed63a8bb.md"
+    },
+    {
+      "id": "2025-06-absolution-gap-5bfc18fb",
+      "title": "Absolution Gap",
+      "author": "Alastair Reynolds",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Revelation Space",
+      "series_index": null,
+      "date_started": "2025-06",
+      "date_finished": "",
+      "excerpt": "Reynolds closes his Revelation Space cycle with a novel that manages to feel both vast and oddly intimate. On the grand opera side we get kilometre high cathedrals trundling across a moon, spectacular lighthugger battles, and the slow, chilling reveal of just how hard the Inhibitors will fight. Yet the book’s heart is ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-06-absolution-gap-5bfc18fb.md"
+    },
+    {
+      "id": "2025-06-a-memory-called-empire-130151fc",
+      "title": "A memory called empire",
+      "author": "Arkady Martine",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Teixcalaan",
+      "series_index": 1,
+      "date_started": "2025-06",
+      "date_finished": "",
+      "excerpt": "Beautifully written and vivid. The world of Teixcalaanli was beautifully rendered and the characters well drawn. The plot was intense. A week of manic activity culminating with a sacrifice. The use of poetry was well done and made for an interesting way of making a culture feel both foreign and familiar. I don’t think ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-06-a-memory-called-empire-130151fc.md"
+    },
+    {
+      "id": "2025-05-redemption-ark-a686b09c",
+      "title": "Redemption Ark",
+      "author": "Alastair Reynolds",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Revelation Space",
+      "series_index": null,
+      "date_started": "2025-05",
+      "date_finished": "",
+      "excerpt": "This was most certainly a middle novel. The plot was structured in the classic three part structure with the end and the climax thrilling. The nature of the treat to humanity and life in general set against the petty lives and concerns of politics were well drawn. Unfortunately I forgot to write my review of this novel",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-05-redemption-ark-a686b09c.md"
+    },
+    {
+      "id": "2025-05-deadhouse-gates-26af8ff9",
+      "title": "Deadhouse Gates",
+      "author": "Steven Erikson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 2,
+      "date_started": "2025-05",
+      "date_finished": "",
+      "excerpt": "I wasn't expecting to enjoy this novel as much as I did. The booktube community told me that it takes at least until book 3 before you start to really \"get\" and love the \"Malazan Book of the Fallen\" series. I loved this novel. The sweeping scope, the morally complex and thoroughly human characters the capraciousness of",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-05-deadhouse-gates-26af8ff9.md"
+    },
+    {
+      "id": "2025-04-tai-pan-8b4d0490",
+      "title": "Tai-Pan",
+      "author": "James Clavell",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Asian Saga",
+      "series_index": 2,
+      "date_started": "2025-04",
+      "date_finished": "",
+      "excerpt": "Enjoyed this a great deal. Again James a label brings the past to life. The swathing stinking world of the early 19th century on south China and Hong Kong. At first I struggled with the dialects that the characters speak but after 50 or so pages I found myself reading and understanding easily. Yet again Clavell is fasc",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-04-tai-pan-8b4d0490.md"
+    },
+    {
+      "id": "2025-04-slaughter-house-5-573d2d90",
+      "title": "Slaughter house 5",
+      "author": "Kurt Vonnegut",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-04",
+      "date_finished": "",
+      "excerpt": "bookclub Enjoyed this a great deal. I enjoyed the ambiguity. Is the main character delusional or is he really jumping through time; has he really been abducted by aliens and put in a zoo or is this his psyche’s way of processing the trauma that he has been through in the war. One of my reflections is that the structure",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-04-slaughter-house-5-573d2d90.md"
+    },
+    {
+      "id": "2025-04-revelation-space-bef8a7c4",
+      "title": "Revelation space",
+      "author": "Alastair Reynolds",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Revelation Space",
+      "series_index": null,
+      "date_started": "2025-04",
+      "date_finished": "",
+      "excerpt": "A solid space opera that at times feels vast but zooms down into the psychology and motivations of a few key players. I felt the world could have been more fully drawn and the nature of the different political groups / human sects more fully. The pacing was good. It kept me turning the pages and I found it easy to imag",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-04-revelation-space-bef8a7c4.md"
+    },
+    {
+      "id": "2025-04-gardens-of-the-moon-a731a266",
+      "title": "Gardens Of The Moon",
+      "author": "Steven Erikson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Malazan Book Of The Fallen",
+      "series_index": 1,
+      "date_started": "2025-04",
+      "date_finished": "",
+      "excerpt": "Solid 3 stars. I thoroughly enjoyed the world building, the characters, and the pacing. The story progressed swiftly, seamlessly transitioning between different groups and characters. I appreciated the way we were immediately thrust into the action. It’s similar to how history and life unfold—without the need for backs",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-04-gardens-of-the-moon-a731a266.md"
+    },
+    {
+      "id": "2025-03-the-evolutionary-void-62a8aaf3",
+      "title": "The evolutionary void",
+      "author": "Peter F Hamilton",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Void Trilogy",
+      "series_index": 3,
+      "date_started": "2025-03",
+      "date_finished": "",
+      "excerpt": "Another satifisfying read from Peter Hamilton. The pacing was excellent and the story structure of the novel kept me engaged throughout. I was excited to go back to the Commonwealth Universe every day. The characterisations especially of Animandia were particually strong and as ever the world building excellent. It was",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-03-the-evolutionary-void-62a8aaf3.md"
+    },
+    {
+      "id": "2025-03-the-name-of-the-rose-3c3c22d9",
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-03",
+      "date_finished": "",
+      "excerpt": "This was a very different book to the historical novels that I have read in the past. What I liked I loved the vivid and beautiful descriptions, the world of the Abbey would beautifuly realised, the atmosphere thick and vivid. The characterisation of Adso and Willimam beautifully drawn. The prejudicies and preocupation",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-03-the-name-of-the-rose-3c3c22d9.md"
+    },
+    {
+      "id": "2025-03-patriot-86254a3c",
+      "title": "Patriot",
+      "author": "Alexei Navalny",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Memoir"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-03",
+      "date_finished": "",
+      "excerpt": "bookclub This is only the fourth autobiography I have read (John Simpson, Malcolm X, John Waters & Alexei Navalny). I can’t say that I “enjoyed” the read given the terrible things that were done w to Navalny. But his story is inspiring. I got a glimpse of what integrity and real bravery feels like. I feel incredibly lu",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-03-patriot-86254a3c.md"
+    },
+    {
+      "id": "2025-02-the-wind-up-bird-chronicle-6edab630",
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakam",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "bookclub This book spancs many genres. Psychological thriller, fantasy, romance and science fiction and mystery. The weaves these styles together to build a character study of Toru Okada. Characters are told very much from Toru's perspective. Or in letters that he recieves from other characters. At many points in the s",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-the-wind-up-bird-chronicle-6edab630.md"
+    },
+    {
+      "id": "2025-02-the-temporal-void-d100da9b",
+      "title": "The Temporal Void",
+      "author": "Peter F Hamilton",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Void Trilogy",
+      "series_index": 2,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "Another enjoyable read. The pacing was excellent. I again found the Eduard sections compelling. The mix of SciFi and fantasy worked really well. Especially as they are quarantined from each other. I’m glad the SI has reappeared. I wondered where they had gone. Very much a middle book.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-the-temporal-void-d100da9b.md"
+    },
+    {
+      "id": "2025-02-the-stone-sky-ad4a88c1",
+      "title": "The Stone Sky",
+      "author": "N.K. Jemisin",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Broken Earth",
+      "series_index": 3,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "This was a good end to the series. The confrontation between Essun and Nassun felt inevitable (from the first book really) but I found the redemptive ark of Schaffa fullfilling. I came to enjoy the first person narrative and the voice of Hoa. I found the exploration of the nature of freedom, free will and nature of lif",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-the-stone-sky-ad4a88c1.md"
+    },
+    {
+      "id": "2025-02-the-dreaming-void-bc4f1343",
+      "title": "The Dreaming Void",
+      "author": "Peter F Hamilton",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Void Trilogy",
+      "series_index": 1,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "Highly enjoyable space opera that cobines SciFi with Fantasy. The books are fast paced and highly exciting. I found myself looking forward to the Edeard sections a great deal. The similarities with humanity in this later Commonwealth are similar to the \"Culture Series\". With extensive body modifications forcefields etc",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-the-dreaming-void-bc4f1343.md"
+    },
+    {
+      "id": "2025-02-she-who-became-the-sun-b158237c",
+      "title": "She Who Became the Sun",
+      "author": "Shelley Parker-Chan",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Radiant Emperor",
+      "series_index": 1,
+      "date_started": "2025-02",
+      "date_finished": "",
+      "excerpt": "This was an enjoyable read though I found the genre mix up a little confusing. I liked the historical fiction and delving into the world of 14th century China. The swapping of genders of the main protagonist was interesting and made the novel an intersting study on identify and reality. I found the \"magic\" elements a b",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-02-she-who-became-the-sun-b158237c.md"
+    },
+    {
+      "id": "2025-01-xenocide-c3e99adf",
+      "title": "Xenocide",
+      "author": "Orson Scott Card",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 3,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "I was surprised at how much I enjoyed this. Interesting exploration on the nature of humanity, consciousness and the bonds that unite people. Provided an interesting study of the nature of authority and the metaphysics of religion.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-xenocide-c3e99adf.md"
+    },
+    {
+      "id": "2025-01-the-new-life-5766967f",
+      "title": "The new life",
+      "author": "Tom Crewe",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "bookclub Beautiful and erotically charged. Paints London and the people of Victorian London vividly. The wife of John / Johnny is a character I would like to have seen more of. In a way she suffers as much as anyone but has no agency. She is a victim of sexism and of the law more than Johnny. And it is heavily implied ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-the-new-life-5766967f.md"
+    },
+    {
+      "id": "2025-01-the-fifth-season-03e6814c",
+      "title": "The fifth season",
+      "author": "N.K. Jemisin",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Broken Earth",
+      "series_index": 1,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "This was a Fantasy novel of surprising complexity. It was only at the end that I realised that the three lead female chracters were the same person (Damaya) at diffierent times. This created a really full and in depth understanding of her characterisation. The enslavement of the Rogas was a very good theme. Jemisin's t",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-the-fifth-season-03e6814c.md"
+    },
+    {
+      "id": "2025-01-the-children-of-the-mind-3a3a0a2a",
+      "title": "The children of the mind",
+      "author": "Orson Scott Card",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 4,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "Enjoyable read but lost some of the philosophical grounding of the first three novels. Still a great adventure story.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-the-children-of-the-mind-3a3a0a2a.md"
+    },
+    {
+      "id": "2025-01-the-obelisk-gate-5ae83ef7",
+      "title": "The Obelisk Gate",
+      "author": "N.K. Jemisin",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Broken Earth",
+      "series_index": 2,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "This very much felt fluke a second book in the trilogy. More characters are introduced and the plot widens out. Our characters start to move independently and some threads start to come together. Jemisin has mastered her use of the present tense third person or I am just getting used to it. The narrative structure was ",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-the-obelisk-gate-5ae83ef7.md"
+    },
+    {
+      "id": "2025-01-last-argument-of-kings-8abc601c",
+      "title": "Last argument of kings",
+      "author": "Joe Abercrombie",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The First Law",
+      "series_index": 3,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "Delightfully dark. No character is good or evil. Some are just more evil than others. The characters are delightfully drawn with perhaps the exception of Black Dow. I look forward to reading more books by Joe Abercrombie.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-last-argument-of-kings-8abc601c.md"
+    },
+    {
+      "id": "2025-01-ender-in-exile-02db5b3d",
+      "title": "Ender in Exile",
+      "author": "Orson Scott Card",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 6,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "I was very disappointed by this novel. I did not feel, in context of the rest of the Ender books, that this story needed telling, or at least not in the way it was. The story was pre occupied with a power dynamic between the captain of the colony ship and Ender. The wider development of Ender was not made clear. The re",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-ender-in-exile-02db5b3d.md"
+    },
+    {
+      "id": "2025-01-best-served-cold-6a7d009a",
+      "title": "Best served cold",
+      "author": "Joe Abercrombie",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "I expected another deeply dark tale from Abercrombie and this was delivered. I wasn't sure what to expect. Revenge was the clear driving force through the book and I found this motivation for the characters a little shallow. And it made the book feel a bit like a formulaic heist story. Gather a crew, go through a serie",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-best-served-cold-6a7d009a.md"
+    },
+    {
+      "id": "2025-01-bands-of-mourning-27b7cae6",
+      "title": "Bands of mourning",
+      "author": "Brandon Sanderson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Wax And Wayne",
+      "series_index": 3,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "Enjoyable great adventure. Felt the characters were well drawn however it was a little predictable and felt a bit hackneyed. But the world is amazing and the lore impressive.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-bands-of-mourning-27b7cae6.md"
+    },
+    {
+      "id": "2025-01-a-boy-s-own-story-3558ba85",
+      "title": "A boy's own story",
+      "author": "Edmund White",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Biography"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2025-01",
+      "date_finished": "",
+      "excerpt": "This was a deeply moving novel. I saw myself reflected in the the protagonist clearly. I found the timeline in the story interesting. It jumped around quite a bit reflecting back and forward in time. White in his post script puts this style down to his drinking at the time of writting. I found it added to the story and",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2025-01-a-boy-s-own-story-3558ba85.md"
+    },
+    {
+      "id": "2024-12-wind-and-truth-a79eda31",
+      "title": "Wind and truth",
+      "author": "Brandon Sanderson",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 5,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Enjoyable conclusion without the moral weight and grace of the first few books. The twist wasn’t quite twisty enough however a good tale. The world building was incredible. Will read the next story ark.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-wind-and-truth-a79eda31.md"
+    },
+    {
+      "id": "2024-12-the-rise-of-endymion-b8a4941f",
+      "title": "The rise of Endymion",
+      "author": "Dan Simmons",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Hyperion Cantos",
+      "series_index": 4,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Extremely good. I guessed that Raul would be the father. Don’t see A. Bettick as the observer. Excellent resolution to the story. Mixes metaphysics and theology beautifully. A hymn to humanism and the hope of a better future.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-the-rise-of-endymion-b8a4941f.md"
+    },
+    {
+      "id": "2024-12-the-blade-itself-77cdf688",
+      "title": "The blade itself",
+      "author": "Joe Abercrombie",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The First Law",
+      "series_index": 1,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Extremely enjoyable. Dark bloody but full of humor. The characters and world are vivid and the plot interesting. This really was a great opening.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-the-blade-itself-77cdf688.md"
+    },
+    {
+      "id": "2024-12-speaker-for-the-dead-a0666c4f",
+      "title": "Speaker for the dead",
+      "author": "Orson Scott Card",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 2,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Interesting follow up to Enders Game. Explores morality and a good character study. How Ended became so unbelievably good at reading people isn’t clear. Liked the description of a completely different life cycle and what that means for morality.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-speaker-for-the-dead-a0666c4f.md"
+    },
+    {
+      "id": "2024-12-endymion-3362a277",
+      "title": "Endymion",
+      "author": "Dan Simmons",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Hyperion Cantos",
+      "series_index": 3,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "I loved this book. I struggled with the first two Hyperion books but this one was a joy to read. Mysterious and well paced. The story had me hooked. I look forward to reading the next!",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-endymion-3362a277.md"
+    },
+    {
+      "id": "2024-12-edge-dancer-7ef53461",
+      "title": "Edge Dancer",
+      "author": "Brandon Sanderson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": null,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Enjoyable little novel. Lift is a great character and so enjoyable to read.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-edge-dancer-7ef53461.md"
+    },
+    {
+      "id": "2024-12-dawnshard-5ef8395a",
+      "title": "Dawnshard",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": null,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Enjoyable short book expanding the universe and lore of the Stormlight Archive series.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-dawnshard-5ef8395a.md"
+    },
+    {
+      "id": "2024-12-before-they-are-hanged-ea9431c2",
+      "title": "Before they are hanged",
+      "author": "Joe Abercrombie",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The First Law",
+      "series_index": 2,
+      "date_started": "2024-12",
+      "date_finished": "",
+      "excerpt": "Amazing how Abercrombie makes a torturer a sympathetic character. Another thoroughly good read. Incredible character work a slow but building plot. Where is it all going to go.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-12-before-they-are-hanged-ea9431c2.md"
+    },
+    {
+      "id": "2024-11-ultra-processed-people-521067dc",
+      "title": "Ultra-processed people",
+      "author": "Chris van Tulleken",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Health"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "bookclub Very readable. Point is very labored at times. Made me reconsider how I eat.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-ultra-processed-people-521067dc.md"
+    },
+    {
+      "id": "2024-11-too-like-the-lightning-eb912913",
+      "title": "Too like the lightning",
+      "author": "Ada Palmer",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Terra Incognita",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Not sure what to make of this one. Challenging. At times sound of hard to follow and the narrator style difficult to follow. The different factions “Hives” hard to keep straight. Not sure what the Bash system adds to the narrative. They are families. Extended families.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-too-like-the-lightning-eb912913.md"
+    },
+    {
+      "id": "2024-11-the-alloy-of-law-cf014ad6",
+      "title": "The alloy of Law",
+      "author": "Brandon Sanderson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Wax And Wayne",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Enjoyable return to the world of Mistborn. I enjoy the Victorian line works and the new characters. Tight not group and close focus on three characters.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-the-alloy-of-law-cf014ad6.md"
+    },
+    {
+      "id": "2024-11-the-darkness-that-comes-before-16b31275",
+      "title": "The Darkness That Comes Before",
+      "author": "R. Scott Bakker",
+      "state": "abandoned",
+      "status": "abandoned",
+      "rating": "abandoned",
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Prince Of Nothing",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Did not finish Couldn’t get into this. Gave up. I found the names confusing and the lore hard to follow. Couldn’t get a feel for the characters or the world.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-the-darkness-that-comes-before-16b31275.md"
+    },
+    {
+      "id": "2024-11-shadows-of-self-3c39393b",
+      "title": "Shadows of self",
+      "author": "Brandon Sanderson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Wax And Wayne",
+      "series_index": 2,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Enjoyable adventure. More of the comers opening up. Nothing ground breaking on the previous novels.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-shadows-of-self-3c39393b.md"
+    },
+    {
+      "id": "2024-11-prince-of-thorns-1d6ba5bd",
+      "title": "Prince of thorns",
+      "author": "Mark Lawrence",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Broken Empire",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "Very enjoyable. Dark and twisted and visceral. You can hear and smell the clash and stink of battle. The stench of the brothers leaps off the page. Pacing excellent descriptions vividly drawn. Questions on the origin of the world. Our world a 1,000 years after nuclear war?",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-prince-of-thorns-1d6ba5bd.md"
+    },
+    {
+      "id": "2024-11-pandoras-star-e4b98ed5",
+      "title": "Pandora’s star",
+      "author": "Peter F. Hamilton",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Commonwealth Saga",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "The first part of the story. We are left with a literal cliff hanger as Ozzie, Orion and their alien companion fall of the edge of a disk world and the prime invasion os happening and key players are realizing the starter os real. The only complaint with the star flyer idea is that it has to be real to be included in t",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-pandoras-star-e4b98ed5.md"
+    },
+    {
+      "id": "2024-11-judas-unchained-d022d4b4",
+      "title": "Judas unchained",
+      "author": "Peter F. Hamilton",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Commonwealth Saga",
+      "series_index": 2,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "So the SI wasn’t the starflyer! Enjoyed a lot. I found the Silken and Izzie subplot unnecessary it didn’t carry the story forward and had only a small point towards the plot. Ozzie has humanities conscience could have got in to the plot elsewhere. I enjoyed the style and the epic world building. However the characteriz",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-judas-unchained-d022d4b4.md"
+    },
+    {
+      "id": "2024-11-enders-game-3b5c8a09",
+      "title": "Enders game",
+      "author": "Orson Scott Card",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Ender Saga",
+      "series_index": 1,
+      "date_started": "2024-11",
+      "date_finished": "",
+      "excerpt": "One of the best books I have read in a very long time. The twist at the end was I suppose, in hindsight, inevitable but I did t see it. Ended is so beautifully drawn. The battle school so well imagined. The story felt vast even though it was short and set in a very small space.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-11-enders-game-3b5c8a09.md"
+    },
+    {
+      "id": "2024-10-wrath-18a32f92",
+      "title": "Wrath",
+      "author": "John Gwynne",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Faithful And The Fallen",
+      "series_index": 4,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Good if a little predictable. Seemed a little random who Gwynne chose to live and to die. But also there were predictable events. That Gar would die, that Asroth would come into the world. That Corban would reject power. Enjoyed. Will read more from this author.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-wrath-18a32f92.md"
+    },
+    {
+      "id": "2024-10-the-well-of-ascension-c9e07ae8",
+      "title": "The well of ascension",
+      "author": "Brandon Sanderson",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Mistborn",
+      "series_index": 2,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Entertaining. Good twist at the end. Good pace. Will likely read the next one.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-the-well-of-ascension-c9e07ae8.md"
+    },
+    {
+      "id": "2024-10-the-hero-of-ages-1d2b4d7e",
+      "title": "The hero of ages",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Mistborn",
+      "series_index": 3,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Reverent twist at the end of full of action, drama and pathos. Though I didn’t engage with the characters as much as I have with other books.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-the-hero-of-ages-1d2b4d7e.md"
+    },
+    {
+      "id": "2024-10-ruin-1cd7094e",
+      "title": "Ruin",
+      "author": "John Gwynne",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Faithful And The Fallen",
+      "series_index": 3,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Enjoyable read. Fast paced with lots of action. Though the pacing makes the character work less strong and the world building not as good as other novels. Almost every scene is a battle or clash. No quiet moments at all.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-ruin-1cd7094e.md"
+    },
+    {
+      "id": "2024-10-project-hail-mary-2b916e06",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Uplifting exciting and optimistic. A brilliant and engaging story of shared humanity and compassion. I enjoyed the first person style.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-project-hail-mary-2b916e06.md"
+    },
+    {
+      "id": "2024-10-disquiet-gods-3b934234",
+      "title": "Disquiet Gods",
+      "author": "Christopher Ruocchio",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 6,
+      "date_started": "2024-10",
+      "date_finished": "",
+      "excerpt": "Greatly enjoyed. The world (universe) building is fantastic. The terror and horror of Vorgossos feels very real. The Christian theology comes over very strongly. Feels a bit heavy handed. The hybrid of fantasy and sci fi works really well.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-10-disquiet-gods-3b934234.md"
+    },
+    {
+      "id": "2024-09-valour-9f8fef77",
+      "title": "Valour",
+      "author": "John Gwynne",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Faithful And The Fallen",
+      "series_index": 2,
+      "date_started": "2024-09",
+      "date_finished": "",
+      "excerpt": "Hugely enjoyable. Fast paced and great characterization. There is a good exploration of characters. They are not all good or all bad. Motivations explored. Clearly influenced by Tolkien and Robert Jordan. But original.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-09-valour-9f8fef77.md"
+    },
+    {
+      "id": "2024-09-the-sunlit-man-06dbc8f8",
+      "title": "The sunlit man",
+      "author": "Brandon Sanderson",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-09",
+      "date_finished": "",
+      "excerpt": "Enjoyable sci fi fantasy fusion.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-09-the-sunlit-man-06dbc8f8.md"
+    },
+    {
+      "id": "2024-09-the-final-empire-07104f3e",
+      "title": "The final empire",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Mistborn",
+      "series_index": 1,
+      "date_started": "2024-09",
+      "date_finished": "",
+      "excerpt": "Starts like a heist story as a crew are brought together but expands to be so much more. Who is this immortal “Lord Ruler” Highly enjoyable. Not as good as the storm light archive books but the adventure and characterization was good. I did find some of the characters a little shallow. Ellen’s could have been deepened.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-09-the-final-empire-07104f3e.md"
+    },
+    {
+      "id": "2024-09-malice-4aa6c73a",
+      "title": "Malice",
+      "author": "John Gwynne",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Faithful And The Fallen",
+      "series_index": 1,
+      "date_started": "2024-09",
+      "date_finished": "",
+      "excerpt": "Really enjoyed this. Fast paced and vivid characters. Loved the animal companion. Lines the story telling from different perspectives. Found myself more drawn into Corban’s plot than others and caring about him more. Reminded me of how Robert Jordan used different character perspectives in the wheel of time.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-09-malice-4aa6c73a.md"
+    },
+    {
+      "id": "2024-09-lessons-on-chemistry-74ef83ce",
+      "title": "Lessons on Chemistry",
+      "author": "Bonnie Garmus",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-09",
+      "date_finished": "",
+      "excerpt": "bookclub Enjoyable family saga. Elizabeth Zott the protagonist did not feel real. She is too perfect. She represents the ideal modern female. Independent and courageous. Book gives a good view of mid century sexism and the challenges women face. I found the portrait of Zott as too perfect almost decision itself. She ne",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-09-lessons-on-chemistry-74ef83ce.md"
+    },
+    {
+      "id": "2024-08-yellowface-c7218326",
+      "title": "Yellowface",
+      "author": "Rebecca F Kuang",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Literary fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "bookclub This was a challenging read. It felt like an extended anxiety nightmare. The protagonist is entirely unlikeable. At points I found myself rooting for her if only so her pain would end. Her predicament is entirely self inflicted she makes a series of horrible judgements and entirely selfish choices justified by",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-yellowface-c7218326.md"
+    },
+    {
+      "id": "2024-08-the-prisoner-of-heaven-b026d49d",
+      "title": "The prisoner of heaven",
+      "author": "Carlos Ruiz Zafón",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Cemetery Of Forgotten Books",
+      "series_index": 3,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Another enigmatic novel by Zafón I don’t really know what to make of it except incredibly atmospheric gives a real view of Franco Spain and Barcelona of the 30s 40s and 50s. The plot is dark but simple Daniel unsure of who his father really is learn that his father is not his father or maybe Heiz we learn more about Ma",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-the-prisoner-of-heaven-b026d49d.md"
+    },
+    {
+      "id": "2024-08-red-rising-8b86458a",
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Red Rising Saga",
+      "series_index": 1,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Real page turner. I’m enjoying the universe that is being built. Very much a coming of age story.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-red-rising-8b86458a.md"
+    },
+    {
+      "id": "2024-08-morning-star-856031fd",
+      "title": "Morning star",
+      "author": "Pierce Brown",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Red Rising Saga",
+      "series_index": 3,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Third in the story. I grew frustrated towards the end that the same cycle of capture and defeat would continue. Brown had me deceived. Loved the twist at the end. Don’t think I will rush to read the next volume. But will get to them I’m sure.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-morning-star-856031fd.md"
+    },
+    {
+      "id": "2024-08-golden-son-ba1b7450",
+      "title": "Golden Son",
+      "author": "Pierce Brown",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Red Rising Saga",
+      "series_index": 2,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Expands on the u inverse of the finally irst novel. We see Darrow grow up a bit and struggle through a number of challenges. Very entertaining and couldn’t put it down. I wounded if they revealed Darrow’s secret of his “Red” origins too soon. Will have to wait to find out.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-golden-son-ba1b7450.md"
+    },
+    {
+      "id": "2024-08-dissolution-f3a8f98f",
+      "title": "Dissolution",
+      "author": "C.J. Sansom",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Shardlake Series",
+      "series_index": 1,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Very enjoyable read. Real page turner and well researched. Look forward to reading another.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-dissolution-f3a8f98f.md"
+    },
+    {
+      "id": "2024-08-dark-fire-24273cc7",
+      "title": "Dark Fire",
+      "author": "C.J. Sansom",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Shardlake Series",
+      "series_index": 2,
+      "date_started": "2024-08",
+      "date_finished": "",
+      "excerpt": "Enjoyable historical thriller. This novel lacked the dark menace of the first. But was still an enjoyable page turner.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-08-dark-fire-24273cc7.md"
+    },
+    {
+      "id": "2024-07-shogun-0335aa8f",
+      "title": "Shōgun",
+      "author": "James Clavell",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Asian Saga",
+      "series_index": 3,
+      "date_started": "2024-07",
+      "date_finished": "",
+      "excerpt": "Vivid recreation of late medieval (Elizabethan Japan) the characters well drawn. The story engaging. Sometimes find it difficult to follow the change in perspective as the story switches point of view between characters.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-07-shogun-0335aa8f.md"
+    },
+    {
+      "id": "2024-07-rythym-of-war-f597ea51",
+      "title": "Rythym of War",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 4,
+      "date_started": "2024-07",
+      "date_finished": "",
+      "excerpt": "Hugely enjoyable with a great deal of character and plot development. Aeolian still feels very 1 dimensional to me. All other characters have failings, flaws but Adolin to perfect. Was a bit too long.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-07-rythym-of-war-f597ea51.md"
+    },
+    {
+      "id": "2024-07-kingdoms-of-death-ad1eb0dd",
+      "title": "Kingdoms of death",
+      "author": "Christopher Ruocchio",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 4,
+      "date_started": "2024-07",
+      "date_finished": "",
+      "excerpt": "Horror pain adventure loss this was a dark but violently told tale. Where this goes in the story or why this needed to happen I do not know but I enjoyed the journey!",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-07-kingdoms-of-death-ad1eb0dd.md"
+    },
+    {
+      "id": "2024-07-ashes-of-man-1da56c22",
+      "title": "Ashes of Man",
+      "author": "Christopher Ruocchio",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 5,
+      "date_started": "2024-07",
+      "date_finished": "",
+      "excerpt": "Wow. Read this in one weekend. Fantastic space opera. Fast paced and full of pathos. At times I was close to tears. My pulse high as I read the action. Great fun. But what to read next.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-07-ashes-of-man-1da56c22.md"
+    },
+    {
+      "id": "2024-06-words-of-radiance-94953050",
+      "title": "Words of radiance",
+      "author": "Brandon Sanderson",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 2,
+      "date_started": "2024-06",
+      "date_finished": "",
+      "excerpt": "Really enjoyed this second installment of the Stormlight archive. The characters are starting to come together. However I felt the ending scenes were a little cheesy. Especially between Dalinar & Shallan. The nature of the universe is starting to come clear.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-06-words-of-radiance-94953050.md"
+    },
+    {
+      "id": "2024-06-the-way-of-kings-056a26c8",
+      "title": "The way of kings",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 1,
+      "date_started": "2024-06",
+      "date_finished": "",
+      "excerpt": "Massively enjoyed this fantasy novel. Characters are well drawn and it keeps you guessing. So many cliffhangers and questions at the end. The magic isn’t so well drawn and the nature of storm light feels like it needs some more explanation. I look forward to reading the next one!",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-06-the-way-of-kings-056a26c8.md"
+    },
+    {
+      "id": "2024-06-the-demon-in-white-1a4850df",
+      "title": "The demon in white",
+      "author": "Christopher Ruocchio",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 3,
+      "date_started": "2024-06",
+      "date_finished": "",
+      "excerpt": "Another romping adventure. The tale is linking fantasy and sci fi together well. The battle the threat all great. This one feels like a middle book which I suppose it is!",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-06-the-demon-in-white-1a4850df.md"
+    },
+    {
+      "id": "2024-06-oathbringer-cdd8e1e2",
+      "title": "Oathbringer",
+      "author": "Brandon Sanderson",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Fantasy"
+      ],
+      "series": "Stormlight Archive",
+      "series_index": 3,
+      "date_started": "2024-06",
+      "date_finished": "",
+      "excerpt": "Enjoyed this one. Same wonderful battle scenes. But some issues with the pacing and plot. How did they get the singers out of Urithu? Looking forward to the final two books",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-06-oathbringer-cdd8e1e2.md"
+    },
+    {
+      "id": "2024-05-howling-dark-4fedf301",
+      "title": "Howling Dark",
+      "author": "Christopher Ruocchio",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 2,
+      "date_started": "2024-05",
+      "date_finished": "",
+      "excerpt": "Really enjoyed this book the second in the sun eater series. The familiar set of characters is here with an expanded set. The threat of Vogossos, the terror of battle and the conflict behind Hadrian’s actions are all really well drawn. Excited to read the next one.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-05-howling-dark-4fedf301.md"
+    },
+    {
+      "id": "2024-04-the-secret-speech-3c91a343",
+      "title": "The secret speech",
+      "author": "Tom Rob Smith",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Thriller"
+      ],
+      "series": "Leo Demidov Trilogy",
+      "series_index": 2,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Another great thriller by Tom Rob Smith. Great romp, lots of blood and gore. The plot stretched credulity but then they do say “stranger then Fiction”. The story continues to follow Leo & Raisa as they try to build their lives with their adopted daughters in post Stalin USSR.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-the-secret-speech-3c91a343.md"
+    },
+    {
+      "id": "2024-04-the-drawing-of-the-three-6c9e0551",
+      "title": "The drawing of the three",
+      "author": "Stephen King",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Horror"
+      ],
+      "series": "The Dark Tower",
+      "series_index": 2,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Very much enjoyed. Not like a fantasy I’ve read before. Roland, Eddie and Odetta/Detta/Samantha are a great combination. The interplay between them masterfully drawn. The horror real.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-the-drawing-of-the-three-6c9e0551.md"
+    },
+    {
+      "id": "2024-04-the-gun-slinger-403c0d55",
+      "title": "The Gun Slinger",
+      "author": "Stephen King",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Dark Tower",
+      "series_index": 1,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Very much tell this was written by a 19 year old. The book felt like one long introductory chapter which I guess it is. So many unanswered questions about this world. Looking forward to reading more.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-the-gun-slinger-403c0d55.md"
+    },
+    {
+      "id": "2024-04-surface-detail-fdba91b9",
+      "title": "Surface detail",
+      "author": "Ian M Banks",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Culture Series",
+      "series_index": null,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Penultimate culture series novel and this sees the culture at its best. Lots of exciting politics, space battles and mischievous minds all working together at cross purposes with the humans getting caught in between.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-surface-detail-fdba91b9.md"
+    },
+    {
+      "id": "2024-04-empire-of-silence-1748ca2a",
+      "title": "Empire of Silence",
+      "author": "Christopher Ruocchio",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "The Sun Eater",
+      "series_index": 1,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "The world is heavily influenced by Dune. With an emperor, noble class, monopolies guilds, a ban on AI with trained humans filling the place of computers. However the universe is richer and the story more relatable. Some of the technology is inspired by “the culture” series. Eg. neural nets. I look forward to reading th",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-empire-of-silence-1748ca2a.md"
+    },
+    {
+      "id": "2024-04-alien-clay-a3df92a7",
+      "title": "Alien Clay",
+      "author": "Adrian Tchaikovsky",
+      "state": "1-star",
+      "status": "finished",
+      "rating": 1,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-04",
+      "date_finished": "",
+      "excerpt": "Very entertaining but formulaic. The commandant was a one dimensional antagonist.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-04-alien-clay-a3df92a7.md"
+    },
+    {
+      "id": "2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d",
+      "title": "Hyperion Cantos book 2 the fall of Hyperion",
+      "author": "Dan Simmons",
+      "state": "2-star",
+      "status": "finished",
+      "rating": 2,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Hyperion Cantos",
+      "series_index": 2,
+      "date_started": "2024-03",
+      "date_finished": "",
+      "excerpt": "Overly long and mystical. Enjoyable in parts. Might consider reading more of the series.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d.md"
+    },
+    {
+      "id": "2024-03-child-44-ca2bfddc",
+      "title": "Child 44",
+      "author": "Tom Rob Smith",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Thriller"
+      ],
+      "series": "Leo Demidov Trilogy",
+      "series_index": 1,
+      "date_started": "2024-03",
+      "date_finished": "",
+      "excerpt": "Great adventure and detective model set in Stalin’s Russia where there can be no crime.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-03-child-44-ca2bfddc.md"
+    },
+    {
+      "id": "2024-02-ice-people-d8fc2bc5",
+      "title": "Ice people",
+      "author": "Tom Rob Smith",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Thriller"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-02",
+      "date_finished": "",
+      "excerpt": "Cinematic. Begging for a sequel. Clearly inspired by the three body problem",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-02-ice-people-d8fc2bc5.md"
+    },
+    {
+      "id": "2024-02-hyperion-cantos-book-1-5cd68fbc",
+      "title": "Hyperion Cantos Book 1",
+      "author": "Daniel Simmons",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Science fiction"
+      ],
+      "series": "Hyperion Cantos",
+      "series_index": 1,
+      "date_started": "2024-02",
+      "date_finished": "",
+      "excerpt": "Hard SiFi but interesting. Book clearly the first in a series. Who / what is the Shrike. What is the AI core up to?",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-02-hyperion-cantos-book-1-5cd68fbc.md"
+    },
+    {
+      "id": "2024-02-city-of-thieves-2e370261",
+      "title": "City of Thieves",
+      "author": "David Benioff",
+      "state": "3-star",
+      "status": "finished",
+      "rating": 3,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-02",
+      "date_finished": "",
+      "excerpt": "Enjoyed this but very dark. Some of the characters lacked depth. But a great grim adventure",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-02-city-of-thieves-2e370261.md"
+    },
+    {
+      "id": "2024-01-the-angel-s-game-8dfbdd13",
+      "title": "The Angel's Game",
+      "author": "Carlos Ruiz Zafón",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Historical fiction"
+      ],
+      "series": "Cemetery Of Forgotten Books",
+      "series_index": 2,
+      "date_started": "2024-01",
+      "date_finished": "",
+      "excerpt": "Psychological thriller with ambiguous ending. Second in the graveyard of forgotten books series.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-01-the-angel-s-game-8dfbdd13.md"
+    },
+    {
+      "id": "2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf",
+      "title": "Reasons Not to Worry: How to be Stoic in chaotic times",
+      "author": "Brigid Delaney",
+      "state": "4-star",
+      "status": "finished",
+      "rating": 4,
+      "genres": [
+        "Philosophy"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-01",
+      "date_finished": "",
+      "excerpt": "A very good and practical guide to stoicism. I didn’t like some of the writing style. Referring to “vibes”. Makes me want to read more on the subject.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf.md"
+    },
+    {
+      "id": "2024-01-great-expectations-0da24850",
+      "title": "Great expectations",
+      "author": "Charles Dickens",
+      "state": "5-star",
+      "status": "finished",
+      "rating": 5,
+      "genres": [
+        "Classic fiction"
+      ],
+      "series": null,
+      "series_index": null,
+      "date_started": "2024-01",
+      "date_finished": "",
+      "excerpt": "Never read Dickens before. Very good story told from the fist person perspective. Didn’t expect the ending to be quite so melancholy. Dickens created larger than life characters they jump from the page. Some ridiculous. Not sure if they are meant to be believed or are characters.",
+      "source_url": "https://github.com/jeacook21/spine/blob/main/entries/2024-01-great-expectations-0da24850.md"
+    }
+  ]
+}
